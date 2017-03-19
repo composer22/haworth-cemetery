@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Reads a file which contains lines that represent grave markers in the Haworth Cemetery.
 #

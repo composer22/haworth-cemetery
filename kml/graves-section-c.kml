@@ -1,0 +1,681 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Haworth Cemetery</name>
+    <description>This is a map of graves for section C of St Michael and All Angels's Church, Haworth UK.</description>
+    <visibility>1</visibility>
+    <Style id="poly-BDBDBD-1-77-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-BDBDBD-1-77-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-BDBDBD-1-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-BDBDBD-1-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-BDBDBD-1-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+  <Folder>
+    <name>Section C</name>
+    <visibility>1</visibility>
+    <Placemark>
+      <name>C-1</name>
+      <description>In Remembrance of JOHN DAWSON HOPKINSON of Binns&lt;br&gt;who died August 3rd 1860 in the 27th year of his age. &lt;br&gt;headed [Book of music - Luther's Hymn interspersed with bugle calls.] </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956321,53.830990,0.000000 -1.956307,53.830990,0.000000 -1.956307,53.830998,0.000000 -1.956321,53.830998,0.000000 -1.956321,53.830990,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-2</name>
+      <description>In Memory of BETTY the wife of WILLIAM FIRTH, of Haworth, &lt;br&gt;who died June 13th 1822 in the 45th year of her age&lt;br&gt;Also of the above said WILLIAM FIRTH, &lt;br&gt;who died March 24th 1830, in the 51st year of his age.&lt;br&gt;Also of CHRISTOPHER WALTER his nephew,&lt;br&gt;who died July 25th 1834, aged 15 years.&lt;br&gt;Also of ALBERT, son of WILLIAM and CAROLINE FIRTH of Lees, &lt;br&gt;who died July 15th 1866 aged 5 weeks.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956302,53.830970,0.000000 -1.956288,53.830970,0.000000 -1.956288,53.830978,0.000000 -1.956302,53.830978,0.000000 -1.956302,53.830970,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-3</name>
+      <description>In Memory of MARTHA the daughter of JOSEPH and SALLY WHITAKER of Sawood &lt;br&gt;who died August 22nd 1827, in the 20th year of her age.&lt;br&gt;Also of JAMES their son who died March 8th 1831, in the 17th year of his age. &lt;br&gt;Also of the above named SALLY WHITAKER &lt;br&gt;who died February 7th 1842 in the 57th year of her age.&lt;br&gt;Also of the aforenamed JOSEPH WHITAKER &lt;br&gt;who departed this life April 2nd 1863, in the 78th year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956302,53.830980,0.000000 -1.956288,53.830980,0.000000 -1.956288,53.830988,0.000000 -1.956302,53.830988,0.000000 -1.956302,53.830980,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-4</name>
+      <description>In Memory of JOHN HARDAKER of Height who died January 5th 1798 aged 10 years&lt;br&gt;Also JUDITH his wife who died June 6th 1823 in the 63rd year of her age. &lt;br&gt;Also of BETTY the wife of JAMES JENNINGS of Bents&lt;br&gt;who died July 1st 1843, in the 61st year of her age.&lt;br&gt;Also of SARAH ANN daughter of JOHN and HARRIOT BLAND&lt;br&gt;who died December 7th 1846, in the 1st year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956302,53.831000,0.000000 -1.956288,53.831000,0.000000 -1.956288,53.831008,0.000000 -1.956302,53.831008,0.000000 -1.956302,53.831000,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-5</name>
+      <description>HOPKINSON&lt;br&gt;(Here) lyeth (the B)ody of the son HOPKINSON (sic) &lt;br&gt;departed this life the 17th of March 1730&lt;br&gt;Also JOHN WOOD died April 19th 1741&lt;br&gt;ABRAHAM WOOD buried here 1755&lt;br&gt;ANN WOOD buried here 1761&lt;br&gt;R H 1781</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956302,53.831020,0.000000 -1.956288,53.831020,0.000000 -1.956288,53.831028,0.000000 -1.956302,53.831028,0.000000 -1.956302,53.831020,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-6</name>
+      <description>In Memory of SUSEY daughter of GEORGE and SALLY HOLMES of Thornton &lt;br&gt;who died July 2nd 1846 aged 16 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956284,53.831010,0.000000 -1.956269,53.831010,0.000000 -1.956269,53.831018,0.000000 -1.956284,53.831018,0.000000 -1.956284,53.831010,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-7</name>
+      <description>In Memory of JOHN the son of ROBERT and GRACE PIGHELLS of Leeming &lt;br&gt;who died November 17th 1799 aged 17 years&lt;br&gt;"In this vain would short was my stay &lt;br&gt;Health strength and beauty fled away &lt;br&gt;Death doth not always warning give &lt;br&gt;Therefore be careful how you live." &lt;br&gt;Also THOMAS their son who died September 11th 1812 in the 28th year of his age&lt;br&gt;Also GRACE wife of the above ROBERT PIGHELLSdied February 7th 1826 aged 75 years.&lt;br&gt;Also of MARY JENNINGS of Mytholmes who died August 7th 1851 in the 86th year of her age.&lt;br&gt;Also of MARY daughter of SQUIRE and ANN THORNTON of Mytholmes &lt;br&gt;who died July 9th 1854 aged 27 years&lt;br&gt;Also of the above named SQUIRE THORNTON &lt;br&gt;who died May 22nd 1866 in the 69th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956265,53.830970,0.000000 -1.956251,53.830970,0.000000 -1.956251,53.830978,0.000000 -1.956265,53.830978,0.000000 -1.956265,53.830970,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-8</name>
+      <description>In Memory of JOHN SUTCLIFFE of Bents who died May 9th 1828 in the 44th year of his age.&lt;br&gt;ABRAHAM SUTCLIFFE Stairs Owner.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956265,53.831030,0.000000 -1.956251,53.831030,0.000000 -1.956251,53.831038,0.000000 -1.956265,53.831038,0.000000 -1.956265,53.831030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-9</name>
+      <description>Here lieth the body of SARAH the wife of THOMAS RUSHWORTH of Stairs &lt;br&gt;who departed this life the 15th day of June 1761 in the 45th year of her age. &lt;br&gt;Also MARTHA daughter of THOMAS RUSHWORTH of Stairs who died October 25th 1798 aged 34&lt;br&gt;Also THOMAS RUSHWORTH husband of the above said SARAH&lt;br&gt;who died October 21st 1799 in the 78th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956265,53.831050,0.000000 -1.956251,53.831050,0.000000 -1.956251,53.831058,0.000000 -1.956265,53.831058,0.000000 -1.956265,53.831050,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-11</name>
+      <description>In Memory of BETTY the wife of JOHN APPLEYARD of Ponden Mill,&lt;br&gt;who died August 22nd 1815, aged 58 years.&lt;br&gt;Also of the abovenamed JOHN APPLEYARD, &lt;br&gt;who died May 31St 1843, in the 82nd year of his age.&lt;br&gt;Also of MARY relict of the above who died March 13th 1846 aged 67 years. &lt;br&gt;[on back of stone] "How short is life how soon comes death"</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956246,53.831030,0.000000 -1.956232,53.831030,0.000000 -1.956232,53.831038,0.000000 -1.956246,53.831038,0.000000 -1.956246,53.831030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-10</name>
+      <description>Sacred to the Memory of MARY, wife of JOHN APPLEYARD of Scholes, &lt;br&gt;who died November 7th 1840, in the 43rd year of her age.&lt;br&gt;"An affectionate Mother and a kind friend"&lt;br&gt;Also of the above named JOHN APPLEYARD &lt;br&gt;who died September 1st 1860, in the 70th year of his age.&lt;br&gt;"This is a faithful saying and worthy of all acceptation &lt;br&gt;that Christ Jesus came into the world to save sinners &lt;br&gt;of whom I am chief."&lt;br&gt;Also of MARY JANE, daughter of JOSEPH and MARY APPLEYARD, and Granddaughter of the above&lt;br&gt;who died February 9th 1862, in the 1st year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956246,53.831040,0.000000 -1.956232,53.831040,0.000000 -1.956232,53.831048,0.000000 -1.956246,53.831048,0.000000 -1.956246,53.831040,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-12</name>
+      <description>In Memory of MARY wife of SAMUEL OGDEN of Oldfield,&lt;br&gt;who died December 26th 1847, in the 70th year of her age.&lt;br&gt;Also of ESTHER their daughter, who died March 9th 1851, in the 28th year of her age.&lt;br&gt;Also of the above SAMUEL OGDEN who died February 7th 1859, aged 81yrs </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.830980,0.000000 -1.956213,53.830980,0.000000 -1.956213,53.830988,0.000000 -1.956227,53.830988,0.000000 -1.956227,53.830980,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-13</name>
+      <description>In Remembrance of STEPHEN WRIGHT of Cullingworth, who died April 11th 1861 aged 89 years&lt;br&gt;Also of HANNAH, his wife, who died April 2nd 1851, aged 81 years. &lt;br&gt;Also of WILLIAM WRIGHT their son of Moorcock, Thornton &lt;br&gt;who died April 19th 1886 aged 76 years.&lt;br&gt;Also of SARAH, wife of the above named WILLIAM WRIGHT &lt;br&gt;who died July 17th 1887, aged 76 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831030,0.000000 -1.956213,53.831030,0.000000 -1.956213,53.831038,0.000000 -1.956227,53.831038,0.000000 -1.956227,53.831030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-14A</name>
+      <description>[broken off]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831040,0.000000 -1.956213,53.831040,0.000000 -1.956213,53.831048,0.000000 -1.956227,53.831048,0.000000 -1.956227,53.831040,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-14</name>
+      <description>Here lieth the body of MICHAEL TILLOTSON of Hallgreen &lt;br&gt;who departed this life the 24th day of September in the 50th year of his age 1723&lt;br&gt;Also of SARAH wife of the abovesaid MICHAEL TILLOTSON of Hallgreen &lt;br&gt;who departed this life January ye 2nd 1755 in the 77th year of her age. </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831050,0.000000 -1.956213,53.831050,0.000000 -1.956213,53.831058,0.000000 -1.956227,53.831058,0.000000 -1.956227,53.831050,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-15</name>
+      <description>Here lieth the body of WILLIAM RUSHWORTH of Mouldgreave in Oxenhope &lt;br&gt;who departed this life the 18th day of February in the year of our Lord 1763. &lt;br&gt;and in the 57th year of his age.&lt;br&gt;Also here lieth the body of SUSAN relict of the abovesaid WILLIAM RUSHWORTH, &lt;br&gt;who departed this life the 13th day of May 1780 in the 76th year of her age.&lt;br&gt;Also JOHN RUSHWORTH their Grandson who died August 10th 1826, in the 59th year of his age.&lt;br&gt;Also of SALLY, wife of THOMAS RUSHWORTH of Marsh, who died Septr 4th 1853, aged 82 years.&lt;br&gt;Also of the abovenamed THOMAS RUSHWORTH, who died April 4th 1855, aged 86 years.&lt;br&gt;Also of JOSEPH, son of the above THOMAS and SALLY RUSHWORTH, &lt;br&gt;who died February 14th 1884 aged 80 years.&lt;br&gt;Also of MERCY, wife of the above JOSEPH RUSHWORTH&lt;br&gt;who died April 6th 1887, in the 73rd year.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831060,0.000000 -1.956213,53.831060,0.000000 -1.956213,53.831068,0.000000 -1.956227,53.831068,0.000000 -1.956227,53.831060,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-16</name>
+      <description>Here lieth the body of JOHN RUSHWORTH of Isle; &lt;br&gt;who departed this life the 6th day of October 1779 in the 31st year of his age.&lt;br&gt;"Remember Man as thou pass by &lt;br&gt;As thou art now so once was I &lt;br&gt;As I am now so must thou be &lt;br&gt;From life to Death must follow me." &lt;br&gt;Also of THOMAS son of JOHN and MARTHA RUSHWORTH of Isle,&lt;br&gt;who died December 9th 1845, in the 37th year of his age.&lt;br&gt;Also of the above named JOHN RUSHWORTH,&lt;br&gt;who departed this life January 9th 1846, in the 72nd year of his age. &lt;br&gt;Also of the above MARTHA, relict of the said JOHN RUSHWORTH, &lt;br&gt;who died August 28th 1860, in the 81st year of her age.&lt;br&gt;Also of JONAS, their Son, &lt;br&gt;who departed this life, September 4th 1861, in the 40th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831070,0.000000 -1.956213,53.831070,0.000000 -1.956213,53.831078,0.000000 -1.956227,53.831078,0.000000 -1.956227,53.831070,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-17</name>
+      <description>In Memory of JONAS RUSHWORTH the son of JOHN and ANN RUSHWORTH of Isle &lt;br&gt;who departed this life the 26th day of January 1794 and in the 15th year of his age.&lt;br&gt;Also ANN Mother of the said JONAS RUSHWORTH &lt;br&gt;who departed this life November 24th 1811, in the 64th year of her age.&lt;br&gt;Also of SARAH RUSHWORTH of Isle, who died December 11th 1839, in the 27th year of her age.&lt;br&gt;Also of JOHN RUSHWORTH of Isle &lt;br&gt;who died the 9th day of January 1845 in the 36th year of his age.&lt;br&gt;Also of MARY, daughter of JOHN and MARTHA RUSHWORTH of Isle, &lt;br&gt;who died January 4th 1876, in the 78th year of her age.&lt;br&gt;Also of JAMES their son, who died October 2nd 1876, in the 72nd year of his age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956227,53.831080,0.000000 -1.956213,53.831080,0.000000 -1.956213,53.831088,0.000000 -1.956227,53.831088,0.000000 -1.956227,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-21</name>
+      <description>In Memory of JOHN HOPKINSON of Hilltop who died August 24th 1814, aged 60 years&lt;br&gt;Also of BETTY relict of the above JOHN HOPKINSON&lt;br&gt;who died April 13th 1842 in the 88th year of her age.&lt;br&gt;Also of SARAH wife of JOHN BROWN and daughter of the above &lt;br&gt;who died December 3rd 1858 in the 79th year of her age.&lt;br&gt;Also of GEORGE, son of the above named JOHN and SARAH BROWN of the same place, &lt;br&gt;who died August 6th 1865, in the 66th year of his age. </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956208,53.830980,0.000000 -1.956194,53.830980,0.000000 -1.956194,53.830988,0.000000 -1.956208,53.830988,0.000000 -1.956208,53.830980,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-25</name>
+      <description>In Memory of SARAH TILLOTSON of Haworth &lt;br&gt;who died the 4th day of December 1802, in the 79th year of her age&lt;br&gt;Also of NANCY, daughter of HIRAM and ANN HARTLEY of Haworth, &lt;br&gt;who died September 22nd 1838, in the 14th year of her age. &lt;br&gt;Also of THOMAS their son who died December 16th 1845 in the 11th year of his age.&lt;br&gt;Also of JOHN their son who died December 27th 1845 in the 18th year of his age.&lt;br&gt;Also of NELLY their daughter who died January 8th 1846 in the 13th year of her age.&lt;br&gt;Also of the abovenamed HIRAM HARTLEY &lt;br&gt;who died January 21st 1876 in the 78th year of his age.&lt;br&gt;Also of JOSEPH their Son, who died December 12th 1876, in the 54th year of his age.&lt;br&gt;Also the abovenamed ANN wife of the above HIRAM HARTLEY &lt;br&gt;who died July 4th 1881, in the 82nd year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956208,53.831000,0.000000 -1.956194,53.831000,0.000000 -1.956194,53.831008,0.000000 -1.956208,53.831008,0.000000 -1.956208,53.831000,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-18</name>
+      <description>[broken away]&lt;br&gt;Here lieth the body of JOHN REDMAN of Slack Stanbury &lt;br&gt;deceased of March the ?6 year of his age 1722&lt;br&gt;JOHN son of JOHN REDMAN of Stanbury May 12th 1735 &lt;br&gt;Also ANN the wife of JOHN REDMAN buried March the 30th 1748. </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956208,53.831080,0.000000 -1.956194,53.831080,0.000000 -1.956194,53.831088,0.000000 -1.956208,53.831088,0.000000 -1.956208,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-19</name>
+      <description>Here lieth the body of SUSANNA the daughter of Widow HARTLEY of Oxenhope &lt;br&gt;buried the 6th day of August Anno Dom. 1733&lt;br&gt;BERNARD HARTLEY 1753 &lt;br&gt;JUDITH HARTLEY 1763 </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956208,53.831090,0.000000 -1.956194,53.831090,0.000000 -1.956194,53.831098,0.000000 -1.956208,53.831098,0.000000 -1.956208,53.831090,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-20</name>
+      <description>JOHN MOORE Buryed Jan 13th 1665</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956208,53.831100,0.000000 -1.956194,53.831100,0.000000 -1.956194,53.831108,0.000000 -1.956208,53.831108,0.000000 -1.956208,53.831100,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-22</name>
+      <description>In Memory of TIMOTHY the son of JAMES and MARGARET FEATHER of Lane Ends &lt;br&gt;who died April 14th 1843 in the 8th year of his age.&lt;br&gt;Also of the above MARGARET wife of the said JAMES FEATHER &lt;br&gt;who died November 26th 1849, in the 36th year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.830970,0.000000 -1.956175,53.830970,0.000000 -1.956175,53.830978,0.000000 -1.956190,53.830978,0.000000 -1.956190,53.830970,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-23</name>
+      <description>In Memory of BETTY, the daughter of ROBERT and SUSAN FEATHER of Uppertown &lt;br&gt;who died May 21st 1816 in the 17th year of her age.&lt;br&gt;Also SUSAN his wife and mother of the above &lt;br&gt;who died April 2nd 1820 in the 49th year of her age.&lt;br&gt;Also JONAS their son who died January 21st 1825, aged 27 years &lt;br&gt;Also SUSANNA their daughter who died March 4th 1829 in the 20th year of her age.&lt;br&gt;Also BETTY daughter of MARY FEATHER, who died April 2nd 1830 in the 3rd year of her age.&lt;br&gt;Also the abovesaid ROBERT FEATHER who died January 5th 1837 aged 67 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.830980,0.000000 -1.956175,53.830980,0.000000 -1.956175,53.830988,0.000000 -1.956190,53.830988,0.000000 -1.956190,53.830980,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-24</name>
+      <description>In Memory of JOHN FAWTHROP of Hall? (who) died May 31st 1821, aged 66 &lt;br&gt;"Joyful lay this body down &lt;br&gt;and leave this lifeless clay &lt;br&gt;without a sigh without a groan &lt;br&gt;and stretch and soar away."&lt;br&gt;Also SALLY his wife who (died) November 19th 1825 aged 74 years &lt;br&gt;Also of WILLIAM their (son?) who died March 31st 1854 in the 71st year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.830990,0.000000 -1.956175,53.830990,0.000000 -1.956175,53.830998,0.000000 -1.956190,53.830998,0.000000 -1.956190,53.830990,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-26</name>
+      <description>[Top and left side overlapped by C024 and C025]&lt;br&gt;who died the 16th day (of) November 1784 in the year of her age&lt;br&gt;Also ANN mother of the who departed this 30th 1791 aged 68&lt;br&gt;MARY AKROYD who died 1827 aged 62 years. &lt;br&gt;WILLIAM WOOD who died 27th 1830 aged 42 years</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831010,0.000000 -1.956175,53.831010,0.000000 -1.956175,53.831018,0.000000 -1.956190,53.831018,0.000000 -1.956190,53.831010,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-27</name>
+      <description>In Memory of SARAH daughter of JOHN WRIGHT of Pears Close, who died in her infancy&lt;br&gt;Also HANNAH the wife of JONATHAN WRIGHT of Haworth,&lt;br&gt;who died June 29th 1829 in the 52nd year of her age.&lt;br&gt;Also of the abovesaid JONATHAN WRIGHT, &lt;br&gt;who died June 28th 1837, in the 70th year of his age.&lt;br&gt;Also of ROBERT, son of the aforenamed JONATHAN and HANNAH WRIGHT &lt;br&gt;who departed this LIFE April 5th 1839, in the 26th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831020,0.000000 -1.956175,53.831020,0.000000 -1.956175,53.831028,0.000000 -1.956190,53.831028,0.000000 -1.956190,53.831020,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-28</name>
+      <description>Here lieth the body of SUSANNA the daughter of JOSEPH RUSHWORTH of Mouldgreave &lt;br&gt;who departed this life the 18th day of September 1767 in the 1st year of her age.&lt;br&gt;Also here lieth the body of JOSEPH RUSHWORTH Father of the abovesaid Susanna &lt;br&gt;who departed this life the 18th day April 1773 in the 37th year of his age.&lt;br&gt;Also here lieth the body of GRACE, relict of the abovesaid JOSEPH RUSHWORTH &lt;br&gt;who departed this life the 14th day of October 1784 in the 63d year of her age.&lt;br&gt;Also JOHN son of THOMAS and SALLY RUSHWORTH died August 16th 1822, aged 16 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831030,0.000000 -1.956175,53.831030,0.000000 -1.956175,53.831038,0.000000 -1.956190,53.831038,0.000000 -1.956190,53.831030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-29</name>
+      <description>Here lieth the body of REBECCA the daughter of ROBERT FETHER of Old Oxenhope, &lt;br&gt;who departed this life the 28th day of May 1784, in the 18th year of her age.&lt;br&gt;Also ALICE wife of the above who died June 11th 1820, aged 78 years. &lt;br&gt;Also ANN daughter of JOHN and MARTHA HARTLEY of Hoyl who died May 19th 1830 aged 2 years.&lt;br&gt;Also SARAH ANN their daughter who died May 27th 1835, aged 1 year.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831040,0.000000 -1.956175,53.831040,0.000000 -1.956175,53.831048,0.000000 -1.956190,53.831048,0.000000 -1.956190,53.831040,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-30</name>
+      <description>Here Lieth the body of BETTY wife of THOMAS FEATHER of Old Oxenhope &lt;br&gt;who departed this life the 14th day of September 1778 in the 47th year of her age.&lt;br&gt;Also THOMAS FEATHER husband of the above who died July 29th 1807 aged 85 years&lt;br&gt;Also of AMY, wife of GEORGE FEATHER of Old Oxenhope, &lt;br&gt;who died September 28th 1806, aged 47 years.&lt;br&gt;Also of the above mentioned GEORGE FEATHER, who died May 4th 1838, aged 85 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831070,0.000000 -1.956175,53.831070,0.000000 -1.956175,53.831078,0.000000 -1.956190,53.831078,0.000000 -1.956190,53.831070,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-31</name>
+      <description>Here lieth the body of NANCY the wife of JAMES AKEROYD of High-binns, &lt;br&gt;who departed this life the 4th day of December 1765 in the 50th year of her age&lt;br&gt;Also the said JAMES AKEROYD who died December 21st 1792, aged 77yrs &lt;br&gt;Also ROBERTs (sic) the son of JAMES and SARAH AKEROYD&lt;br&gt;who died May 1st 1814 in the 2nd year of his age.&lt;br&gt;Also JAMES son of THOMAS and ANN AKEROYD&lt;br&gt;who died May 14th 1821 in the 2nd year of his age.&lt;br&gt;Also JOHN son of JAMES and SARAH AKEROYD who died January 7th 1825 aged 27 years&lt;br&gt;Also HANNAH the daughter of JAMES and SARAH AKEROYD&lt;br&gt;who died April 27th 1842, aged 27 years,</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831080,0.000000 -1.956175,53.831080,0.000000 -1.956175,53.831088,0.000000 -1.956190,53.831088,0.000000 -1.956190,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-32</name>
+      <description>Here lieth the body of MARY the daughter of JAMES and SUSANNA AKEROYD of Haley &lt;br&gt;who died January 27th 1802 in the 24th year of her age.&lt;br&gt;"After a short Rough Journey trod &lt;br&gt;Belov'd by Men, Angils (sic) and God. &lt;br&gt;She fell asleep without a sigh, &lt;br&gt;The Christian lives and cannot die."&lt;br&gt;Also the abovesaid JAMES AKEROYD who died August 19th 1823 in the 77th year of his age.&lt;br&gt;Also SUSANNA his wife who died January 31st 1824 aged 81 years. &lt;br&gt;Also MARY daughter of THOMAS and ANN AKEROYD who died December 31st 1827, aged 3 years.&lt;br&gt;Also of JAMES AKEROYD son of the abovenamed JAMES and SUSANNA AKEROYD &lt;br&gt;who died February 4th 1845, in the 77th year of his age. &lt;br&gt;Also of SARAH, relict of the above named JAMES AKEROYD,&lt;br&gt;who died August 11th 1848 in the 78th year of her age.&lt;br&gt;Also of MICHAEL AKEROYD son of JAMES and SARAH AKEROYD, &lt;br&gt;who died August 15th 1880, in the 79th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831090,0.000000 -1.956175,53.831090,0.000000 -1.956175,53.831098,0.000000 -1.956190,53.831098,0.000000 -1.956190,53.831090,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-33</name>
+      <description>In Memory of JOSEPH ROBERTSHAW of Bentley Hey who died November 3rd 1827 aged 58 years.&lt;br&gt;Also of NANCY relict of the above JOSEPH ROBERTSHAW,&lt;br&gt;who died December 23rd 1835 aged 62 years.&lt;br&gt;Also of GRACE, daughter of TIMOTHY and MARTHA ROBERTSHAW, &lt;br&gt;who died February 20th 1845, aged 1 year&lt;br&gt;Also of an infant of theirs 1842.&lt;br&gt;Also of the aforenamed TIMOTHY ROBERTSHAW, who died January 2nd 1852, aged 47 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956190,53.831100,0.000000 -1.956175,53.831100,0.000000 -1.956175,53.831108,0.000000 -1.956190,53.831108,0.000000 -1.956190,53.831100,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-42</name>
+      <description>Sacred to the memory of infant sons of GEORGE and SALLY FEATHER of Pinnelend.&lt;br&gt;Also of the above SALLY, wife of the said GEORGE FEATHER,&lt;br&gt;who died May 17th 1850 in the 42nd year of her age.&lt;br&gt;Also of AKROYD, son of the above GEORGE FEATHER and HANNAH his wife, &lt;br&gt;who died June 18th 1855 aged 32 weeks,</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956171,53.831060,0.000000 -1.956157,53.831060,0.000000 -1.956157,53.831068,0.000000 -1.956171,53.831068,0.000000 -1.956171,53.831060,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-39</name>
+      <description>In Memory of SARAH, wife of SAMUEL SUNDERLAND of Henfield Side, &lt;br&gt;who died March 5th 1841, aged 78 years&lt;br&gt;Also of the above SAMUEL SUNDERLAND, who died April 3rd 1842, aged 82 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956171,53.831080,0.000000 -1.956157,53.831080,0.000000 -1.956157,53.831088,0.000000 -1.956171,53.831088,0.000000 -1.956171,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-48</name>
+      <description>In Memory of ELIZABETH daughter of JOHN and MARTHA FEATHER of Vale-Mill, (sic)&lt;br&gt;who died May 19th 1837, in the 2nd year of her age. &lt;br&gt;Also of the abovenamed MARTHA FEATHER &lt;br&gt;who died January 3rd 1842, in the 28th year of her age.&lt;br&gt;Also of the above named JOHN FEATHER &lt;br&gt;who died March 20th 1885, in the 81st year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.830970,0.000000 -1.956138,53.830970,0.000000 -1.956138,53.830978,0.000000 -1.956152,53.830978,0.000000 -1.956152,53.830970,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-47</name>
+      <description>In Memory of MARY the wife of GEORGE HOPKINSON of Hawcliffe, &lt;br&gt;who died December 9th 1812 aged 59 years.&lt;br&gt;"Mourn not for me but silent keep &lt;br&gt;I am not dead but fallen asleep,&lt;br&gt;Till the Archangel warning give, &lt;br&gt;Then shall I rise revive and live."&lt;br&gt;Also the said GEORGE HOPKINSON who died July 16th 1816 aged 56 years.&lt;br&gt;Also of WILLIAM HOPKINSON of Brow Top, &lt;br&gt;who died November 16th 1848, in the 62rd year of his age.&lt;br&gt;Also of ELIZABETH relict of the aforenamed WILLIAM HOPKINSON &lt;br&gt;who died December 7th 1865 in the 82nd year of her age.&lt;br&gt;W. HOPKINSON Owner</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.830990,0.000000 -1.956138,53.830990,0.000000 -1.956138,53.830998,0.000000 -1.956152,53.830998,0.000000 -1.956152,53.830990,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-46</name>
+      <description>[blank]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831000,0.000000 -1.956138,53.831000,0.000000 -1.956138,53.831008,0.000000 -1.956152,53.831008,0.000000 -1.956152,53.831000,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-45</name>
+      <description>In Memory of BETTY, wife of JOHN STONEY of Haworth,&lt;br&gt;who died April 22nd 1815, in the 38th year of her age. &lt;br&gt;Also of ESTHER their daughter who died January 3rd 1819 in the 4th year of her age.&lt;br&gt;Also of BETTY their daughter who died August 15th 1839, in the 27th year of her age.&lt;br&gt;Also of two infants of theirs.&lt;br&gt;Also of MARY ANN and JOSEPH their grandchildren.&lt;br&gt;Also of the abovenamed JOHN STONEY, who died August 4th 1858, in the 86th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831010,0.000000 -1.956138,53.831010,0.000000 -1.956138,53.831018,0.000000 -1.956152,53.831018,0.000000 -1.956152,53.831010,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-44</name>
+      <description>In Memory of REBECCA, daughter of JOHN and ESTHER FEATHER of Hawks Bridge, &lt;br&gt;who died October 8th 1846 in the 2nd year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831030,0.000000 -1.956138,53.831030,0.000000 -1.956138,53.831038,0.000000 -1.956152,53.831038,0.000000 -1.956152,53.831030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-43</name>
+      <description>Here lieth the body of MARY the wife of TIMOTHY FETHER of Hawksbridge &lt;br&gt;who departed this life the 15th day of October in the year of our Lord 1805&lt;br&gt;and in the 79th year of her age.&lt;br&gt;Also ANN the wife of JAMES FETHER of Pinnelend&lt;br&gt;who died Feby 28th 1829 in the 39th year of her age.&lt;br&gt;Also MATTY, the daughter of the above JAMES and ANN FEATHER &lt;br&gt;who died December 18th 1834 in the 46th year of her age.&lt;br&gt;Also the above named JAMES FEATHER who died August 10th 1840 in the 72nd year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831040,0.000000 -1.956138,53.831040,0.000000 -1.956138,53.831048,0.000000 -1.956152,53.831048,0.000000 -1.956152,53.831040,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-41</name>
+      <description>JOHN FETHER February 25th 1744 aged 92. &lt;br&gt;Also ANN his wife July ye 19th 1744. aged 86.&lt;br&gt;Also JAMES son of THOMAS FETHER June the 7th 1757 aged 22. &lt;br&gt;Also MARY the daughter of ROBERT FETHER of Old Oxenhope, &lt;br&gt;who departed this life the 6th day of June 1781 in the 13th year of her age. &lt;br&gt;Also MARTHA wife of TIMOTHY FETHER of Hawksbridge&lt;br&gt;who died the 30th of May 1788 in the 64th year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831060,0.000000 -1.956138,53.831060,0.000000 -1.956138,53.831068,0.000000 -1.956152,53.831068,0.000000 -1.956152,53.831060,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-40</name>
+      <description>GEORGE FETHER of Bents died January VIth 1737 in the 88 year of his age. &lt;br&gt;Also SUSAN wife of GEORGE FETHER of Bents died November the 7th 1746 aged 82 years.&lt;br&gt;"See No Man Molest our bones."&lt;br&gt;Also SUSAN wife of THOMAS ACKROYD and daughter of the abovesaid &lt;br&gt;who departed this life September 14th 1776 and in the 74th year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831070,0.000000 -1.956138,53.831070,0.000000 -1.956138,53.831078,0.000000 -1.956152,53.831078,0.000000 -1.956152,53.831070,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-38</name>
+      <description>GEORGE HEATON April 22: 1657 SS 1700&lt;br&gt;GS 1727&lt;br&gt;WILLIAM SUNDERLAND buried here 1747&lt;br&gt;Also MARY daughter of ABRAHAM SUNDERLAND:&lt;br&gt;who died the 10th of March 1790 (in) the 27th year of her age. &lt;br&gt;Also WILLIAM his son &lt;br&gt;died June 19th 1817 aged 63</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831080,0.000000 -1.956138,53.831080,0.000000 -1.956138,53.831088,0.000000 -1.956152,53.831088,0.000000 -1.956152,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-37</name>
+      <description>Here lieth the body of ABRAHAM, the son of ABRAHAM SUNDERLAND of Cunniegarrs; &lt;br&gt;who departed this life the 1st day of June 1781. and in the 24th year of his age.&lt;br&gt;Also GRACE wife and mother of the abovesaid &lt;br&gt;who departed this life October 1st 1811 aged 84 years&lt;br&gt;Also the abovesaid ABRAHAM SUNDERLAND &lt;br&gt;who departed this life October 27th 1822, in (sic) the 92nd year of his age.&lt;br&gt;Also of MATTY, wife of ABRAHAM SUNDERLAND,&lt;br&gt;who died September 4th 1846 in the 61st year of her age.&lt;br&gt;Also of the last named ABRAHAM SUNDERLAND,&lt;br&gt;who died July 25th 1870, in the 86th year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831090,0.000000 -1.956138,53.831090,0.000000 -1.956138,53.831098,0.000000 -1.956152,53.831098,0.000000 -1.956152,53.831090,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-36</name>
+      <description>In Memory of JOHN son of JOHN and SUSAN THOMAS of Haworth &lt;br&gt;who died March 29th 1793, in the 2nd year of her age.&lt;br&gt;Also RICHARD their son who died in his infancy.&lt;br&gt;Also in Memory of SALLY daughter of WILLIAM and GRACE ROBERTS of Leeming &lt;br&gt;who died May 22nd 1808, in the 8th year of her age.&lt;br&gt;Also PIGHILLS and HARTLEY their sons &lt;br&gt;who died June 5th 1808, in the 6th and 1st years of their ages.&lt;br&gt;Also of WILLIAM ROBERTS Father of the aforesaid&lt;br&gt;who died November 16 1809, in the ?0th year of his age.&lt;br&gt;Also THOMAS their son who died in his infancy.&lt;br&gt;Also GRACE wife of the above said WILLIAM ROBERTS&lt;br&gt;who died October 4th 1827, in the 54th year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831100,0.000000 -1.956138,53.831100,0.000000 -1.956138,53.831108,0.000000 -1.956152,53.831108,0.000000 -1.956152,53.831100,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-35</name>
+      <description>In Memory of MARY the daughter of JOSEPH and LYDIA SUNDERLAND of Moorside &lt;br&gt;who died May 26th 1800 aged 4 years:&lt;br&gt;"The great Jehovah full of love, &lt;br&gt;His Angel bright did send to fetch away this harmless babe to joys that never end."&lt;br&gt;Also the abovesaid LYDIA SUNDERLAND who died 12 Nov 1819, in the 69th year of her age.&lt;br&gt;Also the abovesaid JOSEPH SUNDERLAND&lt;br&gt;who died June 14th 1824 (sic) in the 72nd year of his age.&lt;br&gt;Also of HOLMES SUNDERLAND of Moorside, &lt;br&gt;who died July 5th 1851, in the 71st year of his age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831110,0.000000 -1.956138,53.831110,0.000000 -1.956138,53.831118,0.000000 -1.956152,53.831118,0.000000 -1.956152,53.831110,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>C-34</name>
+      <description>ANN wife of NICHOLAS WHITAKERS innen: &lt;br&gt;MARY daur of 1654.&lt;br&gt;THOMAS WHITAKERS November 10th 1655 </description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956152,53.831120,0.000000 -1.956138,53.831120,0.000000 -1.956138,53.831128,0.000000 -1.956152,53.831128,0.000000 -1.956152,53.831120,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>
+

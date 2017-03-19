@@ -14,7 +14,7 @@
 # example: create-haworth-cemetery-kml.py -f "/home/foo/bar.csv" -s "C" -o -1.9563400 -a 53.8309600
 
 # Outputs Keyhole Markup Language document for import to google Earth and Maps.
-# see
+# see:
 #   https://developers.google.com/kml/ for file layout.
 #   https://github.com/cleder/fastkml for library and requirements.
 
@@ -105,7 +105,7 @@ def main(argv):
         for j in range(GRAVEYARD_MAX_SIZE):
             if graveyard[i][j]:
                 g = graveyard[i][j]
-                name = '{}-{}'.format(g.section, g.grave_id)
+                name = '{}-{}'.format(g.section.lower(), g.grave_id)
                 p = kml.Placemark(NS, None, name, g.inscription, None, '#poly-BDBDBD-1-77')
                 lon = long_start + (i * (LONG_2FEET * 2))
                 lat = lat_start  + (j * (LAT_2FEET * 2))

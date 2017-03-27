@@ -105,14 +105,14 @@ def main(argv):
         for j in range(GRAVEYARD_MAX_SIZE):
             if graveyard[i][j]:
                 g = graveyard[i][j]
-                name = '{}-{}'.format(g.section.lower(), g.grave_id)
-                p = kml.Placemark(NS, None, name, g.inscription, None, '#poly-BDBDBD-1-77')
-                lon = long_start + (i * (LONG_2FEET * 2))
+                name = '{}-{}'.format(g.section, g.grave_id)
+                p = kml.Placemark(NS, None, name.lower(), g.inscription, None, '#poly-BDBDBD-1-77')
+                lon = long_start + (i * (LONG_2FEET * 3))
                 lat = lat_start  + (j * (LAT_2FEET * 2))
                 p.geometry =  Polygon([
                   (lon, lat, 0),
-                  (lon + LONG_3FEET, lat, 0),
-                  (lon + LONG_3FEET, lat + LAT_3FEET, 0),
+                  (lon + LONG_3FEET + LONG_2FEET, lat, 0),
+                  (lon + LONG_3FEET + LONG_2FEET, lat + LAT_3FEET, 0),
                   (lon, lat + LAT_3FEET, 0),
                   (lon, lat, 0)])
                 f.append(p)

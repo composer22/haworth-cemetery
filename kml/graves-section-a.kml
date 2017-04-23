@@ -1,0 +1,928 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Haworth Cemetery</name>
+    <description>This is a map of graves for section A of St Michael and All Angels's Church, Haworth UK.</description>
+    <visibility>1</visibility>
+    <Style id="poly-BDBDBD-1-77-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-BDBDBD-1-77-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-BDBDBD-1-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-BDBDBD-1-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-BDBDBD-1-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+  <Folder>
+    <name>Section A</name>
+    <visibility>1</visibility>
+    <Placemark>
+      <name>a-1</name>
+      <description>Here lieth the Body of Mary Daughter of Joseph Ogden of Denholm She departed this Life on the 2nd Day of March 1777 Aged 21 Years. &lt;br&gt;Also the Body of Mary his Wife who died May 6th 1783 Aged 52 Years.&lt;br&gt;Blessed are they that mourn for they shall be comforted.&lt;br&gt;ALSO Sarah the Daughter of the abovesaid Joseph and Mary Ogden of Denholme who died February 2nd 1829 at the house of her Nephew&lt;br&gt;Samuel Whirley of Bingley Aged 61 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956172,53.830955,0.000000 -1.956149,53.830956,0.000000 -1.956149,53.830964,0.000000 -1.956172,53.830963,0.000000 -1.956172,53.830955,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-2</name>
+      <description>Here lieth the body of John Ogden of Isle who Departed this life the 10th Day of September 1778 In the 47th Year of his Age.&lt;br&gt;Also here lieth the Body of Phebe the Wife of James Ogden of Isle who Departed this life the 11th Day of November In the year of our LORD 1785&lt;br&gt;In the 27th(?) year of her Age&lt;br&gt;Also Susan Wife of the abovesaid John Ogden who departed this life March 16th 1812 in the 74th Year of her Age&lt;br&gt;ALSO Mary the Wife of Jonas Ogden of Cullingworthgate who departed this Life Feby 19th 1829 in the 43rd Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956173,53.830965,0.000000 -1.956149,53.830966,0.000000 -1.956149,53.830974,0.000000 -1.956173,53.830973,0.000000 -1.956173,53.830965,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-3</name>
+      <description>IN Memory OF Maria Daughter of Jonas &amp; Mary Ogden of Bents House Wilsden who died May 7th 1846 Aged 22 Years&lt;br&gt;Also of John their Son who died May 14th 1846 Aged 23 Years&lt;br&gt;Also of Alice their Daughter who died Feb 11th 1847 Aged 21 Years.&lt;br&gt;In this vain world short was our stay Health strength and beauty did decay Death doth not always warning give Therefore be careful how you live.&lt;br&gt;ALSO OF THE ABOVENAMED JONAS OGDEN WHO DIED JULY 31st 1873 IN THE 85th YEAR OF HIS AGE.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956173,53.830975,0.000000 -1.956149,53.830976,0.000000 -1.956150,53.830984,0.000000 -1.956173,53.830983,0.000000 -1.956173,53.830975,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-4</name>
+      <description>Here lieth the Body of Jonas Ogden of Isle who Departed this life the 27th day of May In the year of our LORD 1782 and in the 55th Year of his Age&lt;br&gt;Also James Ogden died Feby 19th 1817 Aged 77&lt;br&gt;Also of Ann Wife of Adam Ogden who died March 22nd 1850 Aged 73 years&lt;br&gt;also the above named ADAM OGDEN who departed this life September 20th 1869 in the 91st Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956173,53.830985,0.000000 -1.956150,53.830986,0.000000 -1.956150,53.830994,0.000000 -1.956174,53.830993,0.000000 -1.956173,53.830985,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-5</name>
+      <description>Here lie the Bodies of Sarah and Mary the Daughters of Michael Pighells of Lees Who departed this Life the 16th and 19th Days of January in the&lt;br&gt;Year of our LORD 1789 In the 30th and 24th Years of their Age.&lt;br&gt;Also here lieth the Body of Hannah Daughter of the abovesaid Michael Pighells who departed this Life on the 25th Day of November 1801 In the 29th&lt;br&gt;Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956174,53.831015,0.000000 -1.956151,53.831016,0.000000 -1.956151,53.831024,0.000000 -1.956175,53.831023,0.000000 -1.956174,53.831015,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-6</name>
+      <description>Here lieth the Body of Betty the Daughter of Timothy Horsfall of Wild Greavehead who departed this Life the 16th Day of March in the Year of our&lt;br&gt;LORD 1779 In the 17th Year of her Age.&lt;br&gt;Also here lieth the Body of Timothy Horsfall Father of the above said Betty who departed this Life the 1st Day of February in the Year of our LORD 1794&lt;br&gt;In the 58th Year of his Age.&lt;br&gt;Also here lieth the Body of Sarah Relict of the abovenamed Timothy Horsfall who departed this Life the 5th of February 1826 Aged 86 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956175,53.831035,0.000000 -1.956151,53.831036,0.000000 -1.956152,53.831044,0.000000 -1.956175,53.831043,0.000000 -1.956175,53.831035,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-7</name>
+      <description>Hic jacet corpus Eliza bethae Uxoris Midglei Horsfall de Hawerth quae Obiit Vigessino Die Novemberis A D 1763 Etatis Suae 60 In Spe Beatae&lt;br&gt;Resuricctionis&lt;br&gt;Also here lieth the Body of Sarah the Wife of James Horsfall of Manuells who departed this Life the 22nd Day of December in the Year of our LORD 1776&lt;br&gt;In the 29th Year of her Age&lt;br&gt;Also here lieth the Body of Sarah the Wife of James Horsfall who departed this Life the 11th Day of April in the Year of our LORD 1781&lt;br&gt;In the 37th Year of her Age&lt;br&gt;Also Sarah his Wife who died May 17th(?) 1812 in the 63rd Year of her Age.&lt;br&gt;Also the said James Horsfall who died May 27th 1814 in the 75th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956175,53.831045,0.000000 -1.956152,53.831046,0.000000 -1.956152,53.831054,0.000000 -1.956176,53.831053,0.000000 -1.956175,53.831045,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-8</name>
+      <description>Here lieth the Body of Mary the Wife of Jonas Horsfall of Manuells who departed this Life the 25th Day of March in the Year of our LORD 1768&lt;br&gt;In the 66th Year of her Age&lt;br&gt;Also in Memory of the said Jonas Horsfall of Manywells who died the 16th of July 1792 In the 88th Year of his Age&lt;br&gt;ALSO Mary the Wife of William Wilkinson of Wilsden Daughter of the abovenamed Jonas and Mary Horsfall who departed this Life the 3rd Day of Oct 1811&lt;br&gt;Aged 68 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956176,53.831055,0.000000 -1.956152,53.831056,0.000000 -1.956152,53.831064,0.000000 -1.956176,53.831063,0.000000 -1.956176,53.831055,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-9</name>
+      <description>Here lieth the Body of James Horsfall of Westcroft Head who Departed this life the 20th day of January 1703(?)&lt;br&gt;Also here lieth the Body of Thomas Horsfall of Manuells who departed this Life November 13th 1775 Aged 48 Years&lt;br&gt;Adjacent lieth the Body of Mary his Wife who departed this Life January 10th 1780 Aged 50 Years&lt;br&gt;Also Jonas Horsfall of Manuells who died July 9th 1814 in the 84th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956176,53.831065,0.000000 -1.956153,53.831066,0.000000 -1.956153,53.831074,0.000000 -1.956176,53.831073,0.000000 -1.956176,53.831065,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-10</name>
+      <description>HERE lieth the Body of John the Son of John and Sarah Sharp of Haworth who died Jan 31st 1820 in the 32nd Year of his Age&lt;br&gt;ALSO the said John Sharp who died Sept 9th 1820 Aged 66 Years&lt;br&gt;ALSO Isaac Son of Isaac and Nancy Sharp who died July 5th 1827 in the 15th Year of his Age&lt;br&gt;ALSO Isaac Sharp who died July 25th 1829 in the 55th Year of his Age&lt;br&gt;ALSO of the aforenamed Sarah Sharp who died Aug 14th 1839 Aged 88 Years&lt;br&gt;ALSO of John Son of the above Isaac and Nancy Sharp who died April 10th 1840 in the 36th Year of his Age&lt;br&gt;ALSO of the said Nancy relict of the above Isaac Sharp who died June 3rd 1846 in the 69th Year of her Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956176,53.831075,0.000000 -1.956153,53.831076,0.000000 -1.956153,53.831084,0.000000 -1.956177,53.831083,0.000000 -1.956176,53.831075,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-11</name>
+      <description>Here lieth the Body of John Sharp of Haworth who Departed this life the 6th day of July Anno Domini 1743 Aged 69 years&lt;br&gt;Also here lieth the Body of Mary his wife who departed this Life on the 9th day of June 1769 in the 85th year of her Age&lt;br&gt;Also here lieth the Body of Margaret the Wife of Abraham Sharpe who departed this life the 30th Day of September 1781 In the 64th Year of her Age&lt;br&gt;Also Abraham Sharpe Husband of the above said Margaret who departed this Life the 1st Day of March 1803 In the 80th(?) Year of his Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956177,53.831085,0.000000 -1.956153,53.831086,0.000000 -1.956154,53.831094,0.000000 -1.956177,53.831093,0.000000 -1.956177,53.831085,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-12</name>
+      <description>Here lies the Body of John Sharp junior of Haworth who departed this life the 15th day of May Anno Dom. 1743 And in the 23rd of his Age&lt;br&gt;ALSO Sarah the Daughter of Abraham and Susey Sharp who died June 5th 1822 Aged 17 Years&lt;br&gt;ALSO the above Susey Sharp who died May 27th 1836 Aged 61 Years&lt;br&gt;ALSO of the afore named Abraham Sharp who died April 7th 1857 aged 77 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956177,53.831095,0.000000 -1.956154,53.831096,0.000000 -1.956154,53.831104,0.000000 -1.956177,53.831103,0.000000 -1.956177,53.831095,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-24</name>
+      <description>In Memory of Joseph Pighells of Isle who died Sept 8th 1795 Aged 11 Years&lt;br&gt;Also Jonas Pighells Father of the above who died Dec 9th 1795 Aged 38 Years&lt;br&gt;Also James his Son who died Jany 20th 1796 aged 43 weeks&lt;br&gt;Also John his Son who died March 23rd 1802 Aged 21 Years&lt;br&gt;Also Hannah Granddaughter of the said Jonas Pighells who died Hay 16th 1811 in the 1st Year of her Age&lt;br&gt;ALSO Martha Burwin Relict of the above Jonas Pighells and Mother of the first named three children who died Oct 19th 1838 Aged 84 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956145,53.830986,0.000000 -1.956122,53.830987,0.000000 -1.956122,53.830995,0.000000 -1.956145,53.830994,0.000000 -1.956145,53.830986,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-23</name>
+      <description>Here lieth the Body of Mary the Wife of Michael Pighells of Lees who departed this Life the 17th of March 1781 in the 42nd Year of her Age&lt;br&gt;ALSO here lieth Interred two of his Sons who died in their Infancy&lt;br&gt;ALSO in Memory of Michael Pighells late of Lees who departed this Life Decr 14th 1816 in the 86th Year of his Age and born April 17th 1731 Old Style.&lt;br&gt;Slowly his earthly frame decay'd&lt;br&gt;His end was long in sight&lt;br&gt;Nor  was his steady soul afraid&lt;br&gt;To take her awful flight.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956145,53.830996,0.000000 -1.956122,53.830997,0.000000 -1.956122,53.831005,0.000000 -1.956146,53.831004,0.000000 -1.956145,53.830996,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-22</name>
+      <description>In MEMORY of Nathan the Son of Michael Pighells of Lees, he died Octr 9th 1786 in the 19th Year of his Age&lt;br&gt;ALSO the Remains of John the Son of Michael Pighells of Lees, he died Novr 2nd 1788 in the 27th Year of his Age.&lt;br&gt;ALSO here lieth the Remains of Joseph Pighells Miller of Haworth Mill and Son of Michael Pighells of Lees, he died Novr 27th 1805 in the 28th Year of his Age.&lt;br&gt;Afflictions sore he often bore&lt;br&gt;Physicians was (sic) in vain&lt;br&gt;Till God of love from above&lt;br&gt;did ease him of his pain.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956146,53.831006,0.000000 -1.956122,53.831007,0.000000 -1.956123,53.831015,0.000000 -1.956146,53.831014,0.000000 -1.956146,53.831006,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-21</name>
+      <description>Here lieth the Body of John Pighells of Lees who departed this Life the 2nd Day of November 1788 In the 27th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956146,53.831016,0.000000 -1.956123,53.831017,0.000000 -1.956123,53.831025,0.000000 -1.956146,53.831024,0.000000 -1.956146,53.831016,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-20</name>
+      <description>In Memory of Mary the Wife of John Ogden of Sload in Wharley who died April 1st 1817 Aged 32 Years.&lt;br&gt;ALSO in Memory of Mary Ogden Wife of the above named John Ogden of Halifax who died Decr 5th 1843 in the 58th Year of her Age.&lt;br&gt;Afflictions sore long time she bore&lt;br&gt;Physicians were in vain&lt;br&gt;Till God above out of his love&lt;br&gt;Did ease her of her pain&lt;br&gt;ALSO of the abovenamed John Ogden of Salterhebble near Halifax who died May 17th 1858 aged 74 Years</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956146,53.831026,0.000000 -1.956123,53.831027,0.000000 -1.956123,53.831035,0.000000 -1.956147,53.831034,0.000000 -1.956146,53.831026,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-19</name>
+      <description>Interred here the Remains of Rebecca Wife of Jonas Horsfall of West croft Head and Daughter of Robt Heaton late of Ponden&lt;br&gt;who died Nov 15th One Thousand Seven Hundred and Ninety Eight Aged 38 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956147,53.831036,0.000000 -1.956123,53.831037,0.000000 -1.956124,53.831045,0.000000 -1.956147,53.831044,0.000000 -1.956147,53.831036,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-18</name>
+      <description>In Memory of Hannah wife of Henry Turner of Flappet Springs who died July 1st 1847 in the 64th Year of her Age&lt;br&gt;ALSO of the aforenamed HENRY TURNER who died May 11th 1857 in the 87th Year of his Age&lt;br&gt;Also of RHODA wife of JOHN GREENWOOD AND DAUGHTER OF THE ABOVE WHO DIED FEB 21st 1874 in the 70th Year of her age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956147,53.831046,0.000000 -1.956124,53.831047,0.000000 -1.956124,53.831055,0.000000 -1.956147,53.831054,0.000000 -1.956147,53.831046,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-17</name>
+      <description>IN MEMORY of Susan the Daughter of Joseph and Alice Ackroyd of Moorhouse who died April 9th 1789 in the 9th Year of her Age&lt;br&gt;ALSO the abovesaid Joseph Ackroyd who died October 31st 1815 Aged 67 Years&lt;br&gt;ALSO Alice the Wife who died June 1st 1817 in the 72nd Year of her Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956148,53.831066,0.000000 -1.956124,53.831067,0.000000 -1.956125,53.831075,0.000000 -1.956148,53.831074,0.000000 -1.956148,53.831066,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-16</name>
+      <description>Here lieth the Body of Jane the Wife of William Sharp of Millhill who departed this life the 4th day of October 1753 in the 44th Year of her Age&lt;br&gt;Also William Sharp who departed this Life the 19th Day of May in the Year of our LORD 1777 And in the 77th Year of his Age&lt;br&gt;Also Charity the wife John Sharp who died Sep  22nd 1787 Aged 47 Also John Sharp Husband of the above who died the 17th of April 1804 Aged 63&lt;br&gt;Also John Son of the above John and Charity Sharp who died Jany 20th 1823 Aged 56 Years&lt;br&gt;Also Martha Sharp their Daughter who died June 4th 1836 Aged 65 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956148,53.831076,0.000000 -1.956125,53.831077,0.000000 -1.956125,53.831085,0.000000 -1.956148,53.831084,0.000000 -1.956148,53.831076,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-15</name>
+      <description>Here lieth the Body of Jonas the Son of Jonas Horsfall of Uppertown who died the 12th of June 1761 in the 1st Year of his Age&lt;br&gt;Also Sarah his Wife who died the 25th of December 1764 In the 39th Year of her Age&lt;br&gt;Also Timothy his Son who died the 6th of May 1767 In the 18th Year of his age.&lt;br&gt;Also the said Jonas Horsfall her Husband and Father of the above who died the 18th of June 1796 In the 78th Year of his Age&lt;br&gt;Also William Horsfall Son of the abovesaid Jonas who died the 3rd of May 1800 In the 50th Year of his Age&lt;br&gt;Also Ann his Wife who died Augt 28th 1825 Aged 74 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956149,53.831086,0.000000 -1.956125,53.831087,0.000000 -1.956125,53.831095,0.000000 -1.956149,53.831094,0.000000 -1.956149,53.831086,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-14</name>
+      <description>Here lieth the Body of Jonas Hey of Sawood who departed this Life May 19th 1792 In the 79th Year of his Age&lt;br&gt;Also here lieth the Body of Mary Hey of Sawood who departed this Life July 17th 1795 In the 81st Year of her Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956149,53.831096,0.000000 -1.956125,53.831097,0.000000 -1.956126,53.831105,0.000000 -1.956149,53.831104,0.000000 -1.956149,53.831096,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-13</name>
+      <description>Here lies ...	buried the&lt;br&gt;Body of (Sarah?) Wife of&lt;br&gt;Jonathan  ...	(La)nebettom&lt;br&gt;in Denholme ...  departed&lt;br&gt;this Life ...	September&lt;br&gt;...	LORD 1778&lt;br&gt;And in	...	of her Age.&lt;br&gt;[J. Bradfo S. Newby]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956149,53.831106,0.000000 -1.956126,53.831107,0.000000 -1.956126,53.831115,0.000000 -1.956150,53.831114,0.000000 -1.956149,53.831106,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-25</name>
+      <description>IN MEMORY of Sally the Wife of Michael Pighells of Lees who died Novr 19th 1808 Aged 65 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956118,53.831007,0.000000 -1.956094,53.831008,0.000000 -1.956094,53.831016,0.000000 -1.956118,53.831015,0.000000 -1.956118,53.831007,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-26</name>
+      <description>Here lieth the Remains of Sally Pighells of Lees who died February 27th 1807 in the 84th Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956118,53.831017,0.000000 -1.956094,53.831018,0.000000 -1.956095,53.831026,0.000000 -1.956118,53.831025,0.000000 -1.956118,53.831017,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-27</name>
+      <description>Here lieth the Body of Robert Holmes of Stanbury who departed this Life the 1st Day of December in the Year of our LORD 1779&lt;br&gt;And in the 45th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956120,53.831067,0.000000 -1.956096,53.831068,0.000000 -1.956096,53.831076,0.000000 -1.956120,53.831075,0.000000 -1.956120,53.831067,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-28</name>
+      <description>M H 1770   S H 1785&lt;br&gt;In Memory of William Son of Jonas and Priscilla Hey of Whinnyhill who died June 24th 1805 In the 2nd Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956120,53.831077,0.000000 -1.956097,53.831078,0.000000 -1.956097,53.831086,0.000000 -1.956120,53.831085,0.000000 -1.956120,53.831077,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-29</name>
+      <description>Here lieth the Body of Hannah the Daughter of John Hey of Sawood who departed this life the 17th Day of March(?) And in the 22nd Year of her Age&lt;br&gt;ALSO Betty Sister of the above who departed this Life March 22nd 1816 in the 64th Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956120,53.831087,0.000000 -1.956097,53.831088,0.000000 -1.956097,53.831096,0.000000 -1.956121,53.831095,0.000000 -1.956120,53.831087,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-30</name>
+      <description>Here lieth the body of Alice the Daughter of Matthew Holmes she died November the 22nd 1749 in the 16th Year of her age.&lt;br&gt;Also here lieth Edward son of Matthew Holmes he departed this life April 23rd. in the year 1758 in the 32nd year of his Age.&lt;br&gt;Also John Holmes his Grand Son who died the 16th of January 1791 In the 39th(?) Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956121,53.831097,0.000000 -1.956097,53.831098,0.000000 -1.956097,53.831106,0.000000 -1.956121,53.831105,0.000000 -1.956121,53.831097,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-31</name>
+      <description>[Inscription too worn to be legible.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956121,53.831107,0.000000 -1.956098,53.831108,0.000000 -1.956098,53.831116,0.000000 -1.956121,53.831115,0.000000 -1.956121,53.831107,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-41</name>
+      <description>Here lieth the Body of Hannah the Daughter of James Wignall of Stanbury who departed this Life May 27th 1774 Aged 3 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956089,53.831008,0.000000 -1.956066,53.831009,0.000000 -1.956066,53.831017,0.000000 -1.956090,53.831016,0.000000 -1.956089,53.831008,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-40</name>
+      <description>The Body of Rebecca Wife of Michael Heaton of Ponden lies here under Interred July 30th 1733 Aged 42.&lt;br&gt;Also the Body of Mary the Wife of Robert Heaton of Ponden who departed this Life October the 16th in the Year of OUR LORD 1761 In the 35th Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956090,53.831018,0.000000 -1.956066,53.831019,0.000000 -1.956067,53.831027,0.000000 -1.956090,53.831026,0.000000 -1.956090,53.831018,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-39</name>
+      <description>Here lieth the body of Michael Heaton of Ponden who departed this life the 18th day of June 1746 in the 75th Year of his Age&lt;br&gt;Also the Body of Robert Heaton of Ponden who departed this Life the 10th Day of October 1794 In the 68th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956090,53.831028,0.000000 -1.956067,53.831029,0.000000 -1.956067,53.831037,0.000000 -1.956090,53.831036,0.000000 -1.956090,53.831028,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-38</name>
+      <description>Here lieth the body of Mary Wife of Robert Heaton of Ponden who departed this life October 25th Ann: Dni: 1725 And in the 79th year of her age.&lt;br&gt;ALSO Michael the son of William and Sally Heaton of Rushiles who died the 18th of January 1799 in the 2nd year of his Age&lt;br&gt;Also of Robert their Son who died the 31st day of August 1800 In the 2nd Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956090,53.831038,0.000000 -1.956067,53.831039,0.000000 -1.956067,53.831047,0.000000 -1.956091,53.831046,0.000000 -1.956090,53.831038,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-37</name>
+      <description>Here lieth the body of Robert Heaton of Ponden buried the 25th day of March Anno Dni. 1714 And in the 71st Year of his age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956091,53.831048,0.000000 -1.956067,53.831049,0.000000 -1.956068,53.831057,0.000000 -1.956091,53.831056,0.000000 -1.956091,53.831048,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-36</name>
+      <description>HERE LIETH THE BODY OF ANTHONY PIGHELLS OF HAWORTH WHO DYED THE ... DAY OF MARCH 1655 (S R ?) 1724&lt;br&gt;Also here lieth the body of Susanna the wife of Joseph Holmes of Fieldhead Oxenhope who ...&lt;br&gt;[The stone is broken off from this point.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956091,53.831068,0.000000 -1.956068,53.831069,0.000000 -1.956068,53.831077,0.000000 -1.956092,53.831076,0.000000 -1.956091,53.831068,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-35</name>
+      <description>MARTHA: DAUGHTER; OF WILLY AM-. HEY BURYED NOVEMBER 13 1655  M P I P&lt;br&gt;Also Abraham Wignal buried here 1743&lt;br&gt;Also Jeffery Wignal buried here 1783 Aged 87 Years</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956092,53.831078,0.000000 -1.956068,53.831079,0.000000 -1.956069,53.831087,0.000000 -1.956092,53.831086,0.000000 -1.956092,53.831078,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-34</name>
+      <description>In MEMORY of John the Son of Joseph and Mary Bates of Throstlenest who died June 12th 1824 in the 1st Year of his Age&lt;br&gt;ALSO the abovesaid Joseph Bates who died July 22nd 1827 in the 43rd Year of his Age&lt;br&gt;ALSO Rebecca their Daughter who died Jany 5th 1828 in the 2nd Year of her Age&lt;br&gt;Also of John Son of James and Betty Bates who died Oct 19th 1854 aged 1 Year.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956092,53.831088,0.000000 -1.956069,53.831089,0.000000 -1.956069,53.831097,0.000000 -1.956092,53.831096,0.000000 -1.956092,53.831088,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-33</name>
+      <description>In Memory of Becca the Wife of Jonas Hey of Marsh who died Oct 27th 1800 In the 33rd Year of her Age&lt;br&gt;ALSO in Memory of the above said Jonas Hey who died Dec 8th 1827 in the 67th Year of his Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956093,53.831098,0.000000 -1.956069,53.831099,0.000000 -1.956069,53.831107,0.000000 -1.956093,53.831106,0.000000 -1.956093,53.831098,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-32</name>
+      <description>Here lieth the Body of Mary the Daughter of John (Holmes?) of Oldoxenh(ope) who departed this life the (1st?) day of January Ann: Dni:&lt;br&gt;(177-?) Aged (25?) Years.&lt;br&gt;Also John Holm(es) her Father was buried here the 16th day (Febru?)ary 1744 And in the ... (Ye)ar of his ...&lt;br&gt;Also Sarah Daughter of Joseph Holmes who died the 20th of May 1787 in the 27th Year of her Age.&lt;br&gt;In this vain world short was my stay&lt;br&gt;Health Wealth and beauty did decay&lt;br&gt;So fix your thoughts on Heaven above&lt;br&gt;There lies the Crown of Him I love.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956093,53.831108,0.000000 -1.956069,53.831109,0.000000 -1.956070,53.831117,0.000000 -1.956093,53.831116,0.000000 -1.956093,53.831108,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-42</name>
+      <description>Here lieth the Body of Alice the Daughter of James Moon of Haworth who died in her Infancy October 31st 1723&lt;br&gt;Also James Moon Interred on the 28th Day of March 1755&lt;br&gt;Also Thomas Moon Son of the abovesaid James Moon who died April 24th 1794 Aged 69&lt;br&gt;ALSO Sally the Wife of Thomas Whitham of Haworth who died April 50th 1821 Aged 75 Years&lt;br&gt;ALSO the abovesaid Thomas Whitham who died July 9th 1829 Aged 81 Years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956061,53.830999,0.000000 -1.956037,53.831000,0.000000 -1.956038,53.831008,0.000000 -1.956061,53.831007,0.000000 -1.956061,53.830999,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-43</name>
+      <description>Here lieth the body of Mary the daughter of Robert He(aton?) [The remainder is illegible.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956061,53.831009,0.000000 -1.956038,53.831010,0.000000 -1.956038,53.831018,0.000000 -1.956061,53.831017,0.000000 -1.956061,53.831009,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-44</name>
+      <description>[The inscription is worn away.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956062,53.831019,0.000000 -1.956038,53.831020,0.000000 -1.956038,53.831028,0.000000 -1.956062,53.831027,0.000000 -1.956062,53.831019,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-45</name>
+      <description>[The first part of the inscription is worn away.]&lt;br&gt;Also Elizabeth the daughter of Robert Heaton of Northives Interred January 10th Ann: Dom: 1728 In the 17th Year of her Age.&lt;br&gt;Elizabeth Heaton buried here 1751</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956062,53.831029,0.000000 -1.956038,53.831030,0.000000 -1.956039,53.831038,0.000000 -1.956062,53.831037,0.000000 -1.956062,53.831029,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-46</name>
+      <description>Here lieth the body of Martha the daughter of Robert Heaton of Northives buried the 7th day of August 1724 In the 17th Year of her age.&lt;br&gt;Also Robert Heaton her Father who departed this life the 1st day of April Anno Domini 1740 in the (63rd?) Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956062,53.831039,0.000000 -1.956039,53.831040,0.000000 -1.956039,53.831048,0.000000 -1.956063,53.831047,0.000000 -1.956062,53.831039,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-47</name>
+      <description>IN MEMORY of Eliza Daughter of Michael &amp; Ellen Heaton of Royd house who died March 24th 1822 in the 7th Year of her Age&lt;br&gt;ALSO in Memory of Mary Daughter of the said Michael and Ellen Heaton who died June 18th 1826 in the 1st Year of her Age&lt;br&gt;Also in Memory of William their Son who died June 22nd 1832 in the 2nd Year of his Age&lt;br&gt;Also of the above ELLEN wife of the said MICHAEL HEATON who died August 19th 1853 in the 65th Year of her Age&lt;br&gt;ALSO of the aforenamed Michael Heaton of the same place who departed this Life on the 5th Day of March 1860 in the 70th Year of his Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956063,53.831049,0.000000 -1.956039,53.831050,0.000000 -1.956039,53.831058,0.000000 -1.956063,53.831057,0.000000 -1.956063,53.831049,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-48</name>
+      <description>In Memory of Sarah the Wife of John Murgatroyd of Roydhouse who departed this Life the 7th Day of November 1795 In the 63rd Year of her Age&lt;br&gt;ALSO in Memory of the abovesaid John Murgatroyd of Roydhouse who departed this Life May 22nd 1809 in the 75th Year of his Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956063,53.831059,0.000000 -1.956039,53.831060,0.000000 -1.956040,53.831068,0.000000 -1.956063,53.831067,0.000000 -1.956063,53.831059,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-49</name>
+      <description>[This inscription is badly worn]&lt;br&gt;Here lieth the Body ... the Wife Sha Ha ... 26th Day of October ... in the 29th Year of her Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956063,53.831069,0.000000 -1.956040,53.831070,0.000000 -1.956040,53.831078,0.000000 -1.956064,53.831077,0.000000 -1.956063,53.831069,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-50</name>
+      <description>[The top of this stone has broken away; the remaining inscription is barely legible]&lt;br&gt;Also the body of M(ar)th(a) the Daughter of John and Ma(rtha) Wright who departed this Life October the 17th(?) 1761(?) in the first Year of her Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956064,53.831079,0.000000 -1.956040,53.831080,0.000000 -1.956040,53.831088,0.000000 -1.956064,53.831087,0.000000 -1.956064,53.831079,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-51</name>
+      <description>Here Resteth the Body of Adam Wright who departed this life the ... day of February in the year of our Lord 1734&lt;br&gt;Aged 45 years Also Mary the Daughter of Adam Wright who departed this life September&lt;br&gt;the 24th 1747 Also John Wright who departed this Life the 12th of October 1787 in the 62nd Year of his Age&lt;br&gt;Also John the Son of John and Martha Wright of Haworth who departed this Life December 29th 1800 in the 3rd Year of his Age</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956064,53.831089,0.000000 -1.956040,53.831090,0.000000 -1.956041,53.831098,0.000000 -1.956064,53.831097,0.000000 -1.956064,53.831089,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-52</name>
+      <description>[photograph]&lt;br&gt;[This stone appears to have been used twice. The parts of the seventeenth century inscriptions still legible are in large crudely cut capitals.]&lt;br&gt;IN Memory of James Wright of Haworth who died Sept 14th(?) 1808 aged 43 Yrs&lt;br&gt;rs&lt;br&gt;1644&lt;br&gt;WRIGHT JANUARY  2&lt;br&gt;(ADAM?)  (WRIG)HT 1680&lt;br&gt;Thomas Fletcher Owner&lt;br&gt;ALSO of Rebecca wife of the above James Wright who died Jany 16th 1841 aged 73 Years&lt;br&gt;H&lt;br&gt;n&lt;br&gt;PC&lt;br&gt;(ADAM?	WRIGHT&lt;br&gt;NOVEMBER&lt;br&gt;17   1690&lt;br&gt;JO  WRIGHT&lt;br&gt;HT&lt;br&gt;Wright	Owner</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956064,53.831099,0.000000 -1.956041,53.831100,0.000000 -1.956041,53.831108,0.000000 -1.956065,53.831107,0.000000 -1.956064,53.831099,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-53</name>
+      <description>[A second inscription has been carved over an earlier one. The legible parts of the earlier one are here shown in {brackets}.]&lt;br&gt;{ST} IN MEMORY OF      {I}&lt;br&gt;EMMA DAUGHTER OF THOMAS&lt;br&gt;AND ANN FLETCHER OF&lt;br&gt;{N} HAWORTH WHO DIED MAY 30th&lt;br&gt;1852 IN THE 2-(?) YEAR OF HER AGE&lt;br&gt;ALSO IN MEMORY OF REBECCA&lt;br&gt;WRIGHT OF THE SAME PLACE&lt;br&gt;WHO DIED MAY 30th 1854&lt;br&gt;IN THE 58th YEAR OF HER AGE&lt;br&gt;{T}&lt;br&gt;{John}              {of Ha}&lt;br&gt;{worth}                {ye}&lt;br&gt;{10th}&lt;br&gt;THOMAS FLETCHER OWNER.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956065,53.831109,0.000000 -1.956041,53.831110,0.000000 -1.956041,53.831118,0.000000 -1.956065,53.831117,0.000000 -1.956065,53.831109,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-60</name>
+      <description>[Inscription is badly worn.]&lt;br&gt;Michael and&lt;br&gt;Abraham two&lt;br&gt;Children of Michael&lt;br&gt;Mitchell buried here (1736?)&lt;br&gt;Also Susan Wright&lt;br&gt;died Jan 6th 1775&lt;br&gt;Aged (20?) Years&lt;br&gt;Also Mary Wright&lt;br&gt;her Mother died&lt;br&gt;29th 1783 In the Year of her Age&lt;br&gt;Martha Daughter of&lt;br&gt;Michael Mitchell died (1821?)&lt;br&gt;Also the above Michael&lt;br&gt;Mitchell who died Octr 8th 1832 Aged (59) Years</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956034,53.831050,0.000000 -1.956011,53.831051,0.000000 -1.956011,53.831059,0.000000 -1.956035,53.831058,0.000000 -1.956034,53.831050,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-59</name>
+      <description>IN MEMORY OF Susey Wife of John Murgatroyd of Cullingworth who died Feby 25th 1854 aged 61 Years&lt;br&gt;ALSO of the aforenamed John Murgatroyd who died Augt 15th 1859 in the 64th Year of his Age&lt;br&gt;M. Murgatroyd Owner.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956035,53.831060,0.000000 -1.956011,53.831061,0.000000 -1.956012,53.831069,0.000000 -1.956035,53.831068,0.000000 -1.956035,53.831060,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-58</name>
+      <description>[Inscription is illegible except as follows.]&lt;br&gt;Here lieth the Body of&lt;br&gt;house life the&lt;br&gt;Also&lt;br&gt;James&lt;br&gt;Son of&lt;br&gt;Murgatroyd who de&lt;br&gt;parted this life the (10?)&lt;br&gt;Day of February (179-?)</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956035,53.831070,0.000000 -1.956012,53.831071,0.000000 -1.956012,53.831079,0.000000 -1.956035,53.831078,0.000000 -1.956035,53.831070,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-57</name>
+      <description>Here lieth the Body of Thomas Murgatroyd of Roydhouse who departed this life the (?) day of February in the year of our Lord 1718&lt;br&gt;And in the 61st year of his age&lt;br&gt;Also here lieth the Body of John the son of Tho(mas) Murgatroyd who departed this Life the 9th day of May 1727 In the 16th Year of his Age&lt;br&gt;[Five lines here illegible.]&lt;br&gt;July (17th?) (-3rd?) Year of her Age&lt;br&gt;Also here lieth the(body) of Phebe his Wife who ... departed this life the (?) Day of October 1733 in the (63rd) Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956035,53.831080,0.000000 -1.956012,53.831081,0.000000 -1.956012,53.831089,0.000000 -1.956036,53.831088,0.000000 -1.956035,53.831080,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-56</name>
+      <description>John Murg(atroyd) ... Life the In the ... 17 Murgatroyd Daughter of (Robert?) and Jane Murgatroyd who departed ...&lt;br&gt;ALSO of Horsfall Murgatroyd who departed this Life October 5th 1808 in the 78th Year of his Age&lt;br&gt;ALSO Robert Murgatroyd of Lees who died Novr 15th 1814 in the 73rd Year of his Age.&lt;br&gt;ALSO Jane Wife of the above Robert Murgatroyd who died June 21st 1826 in the 64th Year of her Age&lt;br&gt;ALSO Richard their Son who died Augt 8th 1828 in the 36th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956036,53.831090,0.000000 -1.956012,53.831091,0.000000 -1.956013,53.831099,0.000000 -1.956036,53.831098,0.000000 -1.956036,53.831090,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-55</name>
+      <description>IN MEMORY of John Murgatroyd of Lees who died June 11th 1789 in the 89th Year of his Age&lt;br&gt;ALSO James his Son who died May 28th 1820 in the 96th Year of his Age&lt;br&gt;ALSO Ann Wife of the abovesaid James who died July 10th 1831 Aged 85 Years.&lt;br&gt;[These members of the Murgatroyd family are also commemorated on stone A63.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956036,53.831100,0.000000 -1.956013,53.831101,0.000000 -1.956013,53.831109,0.000000 -1.956036,53.831108,0.000000 -1.956036,53.831100,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-54</name>
+      <description>[The inscription is illegible except for the initials 'J.B.' at the bottom left hand side.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956036,53.831110,0.000000 -1.956013,53.831111,0.000000 -1.956013,53.831119,0.000000 -1.956037,53.831118,0.000000 -1.956036,53.831110,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-61</name>
+      <description>IN MEMORY OF Michael Uttley of Marsh who died March 23rd 1838 in the 68th Year of his Age&lt;br&gt;ALSO of an Infant of his&lt;br&gt;ALSO of Hannah Uttley Relict of the abovenamed Michael Uttley who died Dec 9th 1841 in the 74th Year of her Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956007,53.831071,0.000000 -1.955983,53.831072,0.000000 -1.955984,53.831080,0.000000 -1.956007,53.831079,0.000000 -1.956007,53.831071,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-62</name>
+      <description>Sacred TO THE MEMORY OF Swithin Son of Joseph and Mary Redman of Keighley, late of Northives; who died April 29th 1831, Aged 309 Days.&lt;br&gt;ALSO of Dinah their Daughter who died December 26th 1834 Aged 16 Months.&lt;br&gt;ALSO Alfred Greenwood Redman their Son, who died January 18th 1840 Aged one Month.&lt;br&gt;ALSO of the above Mary, Wife of the said Joseph Redman, who died January 1st 1841, in the 36th Year of her Age.&lt;br&gt;ALSO of Sarah Hannah Redman their Daughter, who died July 28th 1841, in the 3rd Year of her Age.&lt;br&gt;ALSO of the abovenamed Joseph Redman, who died Sept 9th 1848 in the 59th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956008,53.831091,0.000000 -1.955984,53.831092,0.000000 -1.955984,53.831100,0.000000 -1.956008,53.831099,0.000000 -1.956008,53.831091,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-63</name>
+      <description>IN MEMORY OF (SUS)AN WIFE OF JOHN MURGATROYD WHO DIED AUGUST 1785 AGED 86 YRS&lt;br&gt;ALSO THE ABOVE JOHN MURGATROYD WHO DIED JUNE 11th 1789 AGED 88&lt;br&gt;ALSO JAMES THEIR SON WHO DIED MAY 28th 1820 AGED 95&lt;br&gt;ALSO ANN HIS WIFE WHO DIED JULY 10th 1831 AGED 85&lt;br&gt;ALSO SARAH WIFE OF JOHN MURGATROYD WHO DIED FEBy 10th 1846 AGED 70&lt;br&gt;ALSO THE SAID JOHN MURGATROYD SON OF THE ABOVE JAMES &amp; ANN MURGATROYD WHO DIED DECr 28th 1862 AGED 85.&lt;br&gt;UNITED AGES OF THE ABOVE 509 YEARS.&lt;br&gt;[Three of the above are also commemorated on stone A55]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956008,53.831101,0.000000 -1.955984,53.831102,0.000000 -1.955985,53.831110,0.000000 -1.956008,53.831109,0.000000 -1.956008,53.831101,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-64</name>
+      <description>In MEMORY of Mary the Daughter of James and Mary Sutcliffe of Shaw who died March 1st (?) Aged (5?) Years.&lt;br&gt;ALSO of Mary his Wife who died Nov (8?) 1827 Aged 33 Years&lt;br&gt;ALSO of Thomas Son of the above named James and Mary Sutcliffe who died Feb 12th 1845 in the 19th Year of his Age.&lt;br&gt;Young man beware as you pass by As you are now so once was I As I am now so you must be Therefore prepare to follow me.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956008,53.831111,0.000000 -1.955985,53.831112,0.000000 -1.955985,53.831120,0.000000 -1.956009,53.831119,0.000000 -1.956008,53.831111,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-66</name>
+      <description>Here lieth the Body of James Robinson of Stanbury who departed this Life the 12th Day of August 1792 In the 67th Year of his Age&lt;br&gt;Betty Simpson Aged 66  1815&lt;br&gt;John Simpson Aged 76  1827</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955980,53.831102,0.000000 -1.955956,53.831103,0.000000 -1.955957,53.831111,0.000000 -1.955980,53.831110,0.000000 -1.955980,53.831102,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-65</name>
+      <description>[Stone is badly worn.]&lt;br&gt;Here lieth the Body of Sutcliffe of&lt;br&gt;Day of 1772  And Year of his Age.&lt;br&gt;[Illegible from here.]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955980,53.831112,0.000000 -1.955957,53.831113,0.000000 -1.955957,53.831121,0.000000 -1.955980,53.831120,0.000000 -1.955980,53.831112,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-67</name>
+      <description>IN MEMORY OF John Mitchell of Lane-Ends who died Feby 8th 1836 AGED 25 YEARS&lt;br&gt;All you who come my grave to see, As I am now, so must you be. Prepare in time, make no delay, I, in my prime, was call'd away.&lt;br&gt;ALSO of Hannah, wife of Hezekiah Mitchell of Hilltop in the Parish of Keighley, who died March 1st 1840, in the 65th Year of her Age.&lt;br&gt;ALSO of the abovenamed Hezekiah Mitchell who died July 25th 1845 in the 75th Year of his Age.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955952,53.831113,0.000000 -1.955928,53.831114,0.000000 -1.955929,53.831122,0.000000 -1.955952,53.831121,0.000000 -1.955952,53.831113,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>a-68</name>
+      <description>In MEMORY of Simeon Whitaker of Horkinstone who died Dec.30th 1811 in the (39th?) Year of his Age&lt;br&gt;ALSO Joseph his Son who died in his Infancy.&lt;br&gt;Life is uncertain, Death is sure, Sin the Wound, but Christ the Cure.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955924,53.831114,0.000000 -1.955900,53.831115,0.000000 -1.955901,53.831123,0.000000 -1.955924,53.831122,0.000000 -1.955924,53.831114,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>
+

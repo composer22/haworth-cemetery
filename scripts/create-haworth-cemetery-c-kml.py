@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Create St Michael and All Angels's Church Graveyard Section
+# Create St Michael and All Angels's Church Graveyard Section C
 #
 # This application reads a .csv file of grave markers and creates a KML file for
 # import into Google Maps. Graves are ordered in a grid's row and col as marked in the .cvs
@@ -11,7 +11,7 @@
 # -o --long-start = longitude point where to start adding graves on the map.
 # -a --lat-start = latitude point where to start adding graves on the map.
 #
-# example: create-haworth-cemetery-kml.py -f "/home/foo/bar.csv" -s "C" -o -1.9566250 -a 53.8307400
+# example: create-haworth-cemetery-c-kml.py -f "/home/foo/bar.csv" -s "C" -o -1.9566250 -a 53.8306900
 # Outputs Keyhole Markup Language document for import to google Earth and Maps.
 # see:
 #   https://developers.google.com/kml/ for file layout.

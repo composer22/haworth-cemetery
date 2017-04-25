@@ -3,9 +3,9 @@
 # Reads a file which contains lines that represent grave markers in the Haworth Cemetery.
 # Data was sourced from Peter Appleyard version
 #
-# format-gravemarkers-csv-appleyard.py -f <inputfile>
+# format-gravemarkers-csv-appleyard.py -f <inputfile> -s <section>
 #
-# Ex: format-gravemarkers-csv.py -f foo.txt > out.csv
+# Ex: format-gravemarkers-csv.py -f foo.txt -s B > out.csv
 #
 # Then outputs a .csv formatted file:
 #
@@ -16,16 +16,16 @@
 # The format of the lines of the input file is:
 
 # Blank line = delimeter
-# ID: a first three characters of the first line
+# ID: a first four characters of the first line
 # Inscripion: the remaining characters of the first line and all lines following
 # till the next blank line
 #
 # example:
 #
-# A01 line 1
+# A001 line 1
 # line 2
 #
-# A02 line 1
+# A002 line 1
 # line 2
 # line 3
 #
@@ -47,33 +47,35 @@ class Grave(object):
 def main(argv):
     # Get command line options
     try:
-        opts, args = getopt.getopt(argv,"hf:",["inputfile="])
+        opts, args = getopt.getopt(argv,"hf:s:",["inputfile=", "section="])
     except getopt.GetoptError:
-        print 'format-gravemarkers-csv.py -f <inputfile>'
+        print 'format-gravemarkers-csv.py -f <inputfile> -s <section>'
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print 'format-gravemarkers-csv.py -f <inputfile>'
+            print 'format-gravemarkers-csv.py -f <inputfile> -s <section>'
             sys.exit()
+        elif opt in ("-s", "--section"):
+            section = arg
         elif opt in ("-f", "--inputfile"):
             input_file = arg
 
     # Read and process file.
     fh = open(input_file,"r")
     print "section,grave_id,inscription"
-    grave = Grave("A", "" , "")
+    grave = Grave(section, "" , "")
     first_line = True
     for line in iter(fh):
         l = line.replace("\n", "")
         if len(l) == 0:
             print grave.fmt()
             del grave
-            grave = Grave("A", "" , "")
+            grave = Grave(section, "" , "")
             first_line = True
         else:
             if first_line:
-                grave.id = line[1:3]
-                l = line[3:]
+                grave.id = line[1:4]
+                l = line[4:]
                 grave.inscription = l.lstrip()
                 first_line = False
             else:

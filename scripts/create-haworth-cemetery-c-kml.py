@@ -7,11 +7,14 @@
 #
 # Parameters:
 # -f --filepath  = name of .csv file to process.
-# -s --section = graveyard section being processed.
 # -o --long-start = longitude point where to start adding graves on the map.
 # -a --lat-start = latitude point where to start adding graves on the map.
 #
-# example: create-haworth-cemetery-c-kml.py -f "/home/foo/bar.csv" -s "C" -o -1.9566250 -a 53.8306900
+# example:
+# (latest to oldest)
+# create-haworth-cemetery-c-kml.py -f "/home/foo/bar.csv" -o -1.9566000 -a 53.8306300 > graves-section-c.kml
+# create-haworth-cemetery-c-kml.py -f "/home/foo/bar.csv" -o -1.9566250 -a 53.8306900
+#
 # Outputs Keyhole Markup Language document for import to google Earth and Maps.
 # see:
 #   https://developers.google.com/kml/ for file layout.
@@ -21,20 +24,25 @@ import csv
 import sys, getopt
 from fastkml import kml, styles
 from shapely.geometry import Point, LineString, Polygon
+import shapely.affinity
 
 # Constants
 NS = '{http://www.opengis.net/kml/2.2}'
 NAME = 'Haworth Cemetery'
 DESCRIPTION = \
   "This is a map of graves for section {} of St Michael and All Angels\'s Church, Haworth UK."
-
+SECTION = 'C'
 GRAVEYARD_MAX_SIZE = 1000 # for graveyard grid
 
 # Approx. lengths
 LONG_3FEET = 0.0000141
 LONG_2FEET = 0.0000094
+LONG_1FEET = 0.0000047
 LAT_3FEET = 0.0000083
 LAT_2FEET = 0.0000050
+LAT_1FEET = 0.0000020
+
+ADJUSTMENT_ANGLE = 2 # degrees counter-clockwise to rotate
 
 # Classes
 # Represents a grave marker from the csv file
@@ -49,22 +57,22 @@ class Grave(object):
 def main(argv):
     # Get command line options
     try:
-        opts, args = getopt.getopt(argv,"hf:s:o:a:",["filepath=", "section=", "long-start=", "lat-start="])
+        opts, args = getopt.getopt(argv,"hf:o:a:",["filepath=", "long-start=", "lat-start="])
     except getopt.GetoptError:
-        print 'create-haworth-cemetery-kml.py -f <filepath> -s <section> -o <long start> -a <lat start>'
+        print 'create-haworth-cemetery-c-kml.py -f <filepath> -o <long start> -a <lat start>'
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print 'create-haworth-cemetery-kml.py -f <filepath> -s <section> -o <long start> -a <lat start>'
+            print 'create-haworth-cemetery-c-kml.py -f <filepath> -o <long start> -a <lat start>'
             sys.exit()
         elif opt in ("-f", "--filepath"):
             filepath = arg
-        elif opt in ("-s", "--section"):
-            section = arg
         elif opt in ("-o", "--long-start"):
             long_start = float(arg)
         elif opt in ("-a", "--lat-start"):
             lat_start = float(arg)
+
+    map_origin = Point(long_start, lat_start)
 
     # Read in all the graves as objects and stick them in a grid.
     graveyard =  [ [ None for i in range(GRAVEYARD_MAX_SIZE) ] for j in range(GRAVEYARD_MAX_SIZE) ]
@@ -92,11 +100,11 @@ def main(argv):
         kml.StyleUrl(NS, None, '#poly-BDBDBD-1-77-highlight')))
 
     # Create the KML Document, and add it to the KML root object.
-    d = kml.Document(NS, None, NAME, DESCRIPTION.format(section), doc_styles)
+    d = kml.Document(NS, None, NAME, DESCRIPTION.format(SECTION), doc_styles)
     k.append(d)
 
     # Create a KML Folder for the section and add it to the Document.
-    f = kml.Folder(NS, None, "Section {}".format(section))
+    f = kml.Folder(NS, None, "Section {}".format(SECTION))
     k.append(f)
 
     # Process the graveyard grid, creating a Placemark with a polygon for each grave.
@@ -114,6 +122,7 @@ def main(argv):
                   (lon + LONG_3FEET + LONG_2FEET, lat + LAT_3FEET, 0),
                   (lon, lat + LAT_3FEET, 0),
                   (lon, lat, 0)])
+                p.geometry = shapely.affinity.rotate(p.geometry, ADJUSTMENT_ANGLE, map_origin)
                 f.append(p)
 
     # Print out the KML Object as a string.

@@ -11,7 +11,7 @@
 # -a --lat-start = latitude point where to start adding graves on the map.
 #
 # example:
-# create-haworth-cemetery-d-kml.py -f "/home/foo/bar.csv" -o -1.9565800 -a 53.8307328 > graves-section-d.kml
+# create-haworth-cemetery-d-kml.py -f "/home/foo/bar.csv" -o -1.9565970 -a 53.8306800 > graves-section-d.kml
 #
 # Outputs Keyhole Markup Language document for import to google Earth and Maps.
 # see:
@@ -40,7 +40,7 @@ LAT_3FEET = 0.0000083
 LAT_2FEET = 0.0000050
 LAT_1FEET = 0.0000020
 
-ADJUSTMENT_ANGLE = 182 # degrees counter-clockwise to rotate
+ADJUSTMENT_ANGLE = 178 # degrees counter-clockwise to rotate
 
 # Classes
 # Represents a grave marker from the csv file
@@ -57,11 +57,11 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv,"hf:o:a:",["filepath=", "long-start=", "lat-start="])
     except getopt.GetoptError:
-        print 'create-haworth-cemetery-c-kml.py -f <filepath> -o <long start> -a <lat start>'
+        print 'create-haworth-cemetery-d-kml.py -f <filepath> -o <long start> -a <lat start>'
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print 'create-haworth-cemetery-c-kml.py -f <filepath> -o <long start> -a <lat start>'
+            print 'create-haworth-cemetery-d-kml.py -f <filepath> -o <long start> -a <lat start>'
             sys.exit()
         elif opt in ("-f", "--filepath"):
             filepath = arg

@@ -40,84 +40,6 @@
     <name>Section F</name>
     <visibility>1</visibility>
     <Placemark>
-      <name>f-11</name>
-      <description>To the Glory of God and in memory of EDWIN ROBINSON MERRALL of Longlands, born February 13th 1849. Died January 27th 1904.&lt;br&gt;This tablet was erected by the organist &amp; members of the choir in grateful remembrance of his generosity and sympathy.&lt;br&gt;'Until the day break and the shadows flee away.'</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956173,53.830965,0.000000 -1.956149,53.830966,0.000000 -1.956149,53.830974,0.000000 -1.956173,53.830973,0.000000 -1.956173,53.830965,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-12</name>
-      <description>To the glory of God And in memory of ROBERT HENRY MOORE, who faithfully served this church as organist &amp; choirmaster for 36 years.&lt;br&gt;Died 14th Nov. 1926. Aged 70 years.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956173,53.830975,0.000000 -1.956149,53.830976,0.000000 -1.956150,53.830984,0.000000 -1.956173,53.830983,0.000000 -1.956173,53.830975,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-8</name>
-      <description>In Loving Memory of GEORGE FIRTH of Manningham, Thorpe, Bradford, Merchant, who died April 17th 1890 and who presented the&lt;br&gt;pulpit and chancel screen in this church. This tablet is erected by his widow.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956173,53.830985,0.000000 -1.956150,53.830986,0.000000 -1.956150,53.830994,0.000000 -1.956174,53.830993,0.000000 -1.956173,53.830985,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-14</name>
-      <description>To The Memory of the Benefactors, to the poor of Haworth Parish.&lt;br&gt;Abraham Kitching of the parish aforesaid, Left 10 shillings Per Annum for ever to be divided yearly, amongst the said poor:&lt;br&gt;David Midgley, Lord of the Manor of Haworth, Left a FARM, forever to Clothe yearly, 10 Poor Children (in Blue) belonging to the said Parish:&lt;br&gt;Mr. RICHARD POLLARD, of Stanbury, in the Parish of Haworth, Left 2 Pounds 10 Shillings Per Annum forever, to be Divided on Christmas Day,&lt;br&gt;amongst the Poor of the Townships or Hamlets of Haworth &amp; Stanbury.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956174,53.830995,0.000000 -1.956150,53.830996,0.000000 -1.956150,53.831004,0.000000 -1.956174,53.831003,0.000000 -1.956174,53.830995,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-2</name>
-      <description>THIS MONUMENT is erected in memory of Grace daughter of the late Henry Cockroft, Esqr. of Great Burlees, Wadsworth, in the Parish of Halifax,&lt;br&gt;and wife of Joseph Greenwood, Esqr. magistrate, of Spring Head, Keighley. She departed this life, April the 9th 1822 in the 58th year of her age.&lt;br&gt;Also in memory of Sarah, daughter of the aforesaid Joseph and Grace Greenwood, who departed this life May the 6th 1833 in the 17th year of her age.&lt;br&gt;ALSO in memory of Ann their daughter, who departed this life December the 6th 1838 in the 19th year of her age.&lt;br&gt;Also of the above named Joseph Greenwood, who departed this life April the 24th 1856, in the 71st year of his age.&lt;br&gt;He was one of the Justices of the Peace for the West Riding of the County of York.&lt;br&gt;Also in remembrance of William Cockroft, eldest son of the above Joseph and Grace Greenwood, who died October 6th 1836, aged 45 years.&lt;br&gt;Take heed, watch and pray; for ye know not when the time is. Mark XIII. 35.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956174,53.831005,0.000000 -1.956150,53.831006,0.000000 -1.956151,53.831014,0.000000 -1.956174,53.831013,0.000000 -1.956174,53.831005,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-25</name>
-      <description>image 245-4547 Anne Bronte grave at St Mary's churchyard, Scarborough.&lt;br&gt;Here lie the remains of ANNE BRONTE, daughter of the REVd. P Bronte, incumbent of Haworth Yorkshire.&lt;br&gt;She died Aged 28 May 28th 1849.&lt;br&gt;Anne Bronte grave at Scarborough&lt;br&gt;The Bronte family is not buried in the churchyard, but in an inaccessible vault beneath the church itself, in the south-east corner, near the Bronte chapel.&lt;br&gt;Buried here are the Revd. Patrick Bronte's wife Maria (1783-1821), his two eldest daughters Maria (1814-1825) and Elizabeth (1815-1825),&lt;br&gt;his sister-in-law, Elizabeth Branwell (1776-1842), his only son Branwell (1817-1848), his daughters the novelists Emily (1818-1848) and Charlotte (1816-1855)&lt;br&gt;and finally Patrick himself (1777-1861), who outlived all his family.&lt;br&gt;The youngest, Anne (1820-1849) died at Scarborough on the Yorkshire coast and is buried in St Mary's churchyard, overlooking the sea.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956174,53.831015,0.000000 -1.956151,53.831016,0.000000 -1.956151,53.831024,0.000000 -1.956175,53.831023,0.000000 -1.956174,53.831015,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name>f-7</name>
       <description>In Loving memory of the REV. THOMAS WILLIAM STORY, M.A. Rector of this Parish 1899-1919 Died 22 November 1939 aged 77 years.&lt;br&gt;Also of MARY JANE his wife died 31 January 1952, aged 84 years.&lt;br&gt;This tablet is erected by their son and daughter.</description>
       <visibility>1</visibility>
@@ -125,20 +47,7 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.956144,53.830956,0.000000 -1.956120,53.830957,0.000000 -1.956121,53.830965,0.000000 -1.956144,53.830964,0.000000 -1.956144,53.830956,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-15</name>
-      <description>Inscribed at bottom of right hand arch leading to the Bronte chapel.&lt;br&gt;The Bronte Memorial Chapel was furnished by Sir Tresham Lever, Bt., and dedicated on the 4th July 1964 by&lt;br&gt;The Right Reverend Clement George S. Michael Parker Bishop of Bradford. [Bronte]</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956146,53.831016,0.000000 -1.956123,53.831017,0.000000 -1.956123,53.831025,0.000000 -1.956146,53.831024,0.000000 -1.956146,53.831016,0.000000</coordinates>
+            <coordinates>-1.956173,53.831151,0.000000 -1.956149,53.831152,0.000000 -1.956149,53.831160,0.000000 -1.956173,53.831159,0.000000 -1.956173,53.831151,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -151,33 +60,7 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.956116,53.830957,0.000000 -1.956092,53.830958,0.000000 -1.956093,53.830966,0.000000 -1.956116,53.830965,0.000000 -1.956116,53.830957,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-19</name>
-      <description>Inside the Bronte chapel (South wall) [Photograph]&lt;br&gt;In memory of Maria, wife of the Revd. P. Bronte A.B. Minister of Haworth she died Sept 15th 1821, in the 39th year of her age.&lt;br&gt;Also of Maria, their daughter; who died May 6th 1825 in the 12th year of her age.&lt;br&gt;Also of Elizabeth, their daughter; who died June 15th 1825 in the 11th year of her age.&lt;br&gt;Also of Patrick Branwell, their son; who died Septr. 24th 1848 aged 31 years.&lt;br&gt;Also of Emily Jane, their daughter; who died Decr. 19th 1848 aged 30 years.&lt;br&gt;Also of Anne, their daughter; who died May 28th 1849 aged 29 years. She was buried at The Old Church, Scarborough.&lt;br&gt;Also of Charlotte, their daughter; wife of the Revd. A.B.Nicholls, B.A. She died March 31st 1855 in the 39th year of her age.&lt;br&gt;Also of the aforenamed Revd. P.Bronte, A.B. who died June 7th 186l in the 85th year of his age, having been Incumbent of Haworth for upwards of 41 years.&lt;br&gt;'The sting of Death is Sin, and the Strength of Sin is the Law, but thanks be to God, which giveth us the Victory through our Lord Jesus Christ.'&lt;br&gt;1. Cor. XV 56 57. [Bronte]</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956118,53.831027,0.000000 -1.956095,53.831028,0.000000 -1.956095,53.831036,0.000000 -1.956119,53.831035,0.000000 -1.956118,53.831027,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-18</name>
-      <description>Inside the Bronte chapel (North wall)&lt;br&gt;In memory of ELIZABETH BRANWELL who died on 29th October 1842 Aged 66 years.</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956119,53.831047,0.000000 -1.956095,53.831048,0.000000 -1.956096,53.831056,0.000000 -1.956119,53.831055,0.000000 -1.956119,53.831047,0.000000</coordinates>
+            <coordinates>-1.956173,53.831161,0.000000 -1.956149,53.831162,0.000000 -1.956150,53.831170,0.000000 -1.956173,53.831169,0.000000 -1.956173,53.831161,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -190,59 +73,7 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.956088,53.830958,0.000000 -1.956064,53.830959,0.000000 -1.956064,53.830967,0.000000 -1.956088,53.830966,0.000000 -1.956088,53.830958,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-16</name>
-      <description>Inscribed at bottom of left hand arch leading to the Bronte chapel.&lt;br&gt;The Bronte Family vault is situated below this pillar near to the place where the Bronte pew stood in the old church.&lt;br&gt;The following members of the family were buried here Maria and Patrick, Maria, Elizabeth, Branwell, Emily Jane, Charlotte. [Bronte]</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956090,53.831018,0.000000 -1.956066,53.831019,0.000000 -1.956067,53.831027,0.000000 -1.956090,53.831026,0.000000 -1.956090,53.831018,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-20</name>
-      <description>Inlay to north windowsill&lt;br&gt;William Alan Ellender born 19th October 1897 died 22nd March 1986</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956091,53.831048,0.000000 -1.956067,53.831049,0.000000 -1.956068,53.831057,0.000000 -1.956091,53.831056,0.000000 -1.956091,53.831048,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-17</name>
-      <description>On the floor to the left of the left hand column.&lt;br&gt;In memory of Emily Jane Bronte who died Dec. 19th 1848 aged 30 years and of Charlotte Bronte born April 21st 1816 died March 31st 1855.&lt;br&gt;[The Bronte memorial tablet is recorded overleaf.] [Bronte]</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956062,53.831019,0.000000 -1.956038,53.831020,0.000000 -1.956038,53.831028,0.000000 -1.956062,53.831027,0.000000 -1.956062,53.831019,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-21</name>
-      <description>Inlay to north windowsill&lt;br&gt;In reverence to God and ever loving memory of Isabella Primrose Wilson wife of John Connal Wilson&lt;br&gt;Born 24 Feb. 1862 ~ died 13 June 1940. Requiescat in Pace</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.956034,53.831050,0.000000 -1.956011,53.831051,0.000000 -1.956011,53.831059,0.000000 -1.956035,53.831058,0.000000 -1.956034,53.831050,0.000000</coordinates>
+            <coordinates>-1.956173,53.831171,0.000000 -1.956150,53.831172,0.000000 -1.956150,53.831180,0.000000 -1.956174,53.831179,0.000000 -1.956173,53.831171,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -255,46 +86,7 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955975,53.830962,0.000000 -1.955951,53.830963,0.000000 -1.955952,53.830971,0.000000 -1.955975,53.830970,0.000000 -1.955975,53.830962,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-10</name>
-      <description>Interior North wall 1914-1918 war&lt;br&gt;To the honoured Memory of those men of this church, and Stanbury, who gave their lives in the Great War 1914 - 1918.&lt;br&gt;This memorial is placed here in grateful remembrance.&lt;br&gt;Joseph Henry Bailey&lt;br&gt;Thomas James Beechey&lt;br&gt;Laurence Bell&lt;br&gt;George William Bellwood&lt;br&gt;William Robert Dixon&lt;br&gt;William Arthur Dolby&lt;br&gt;Lynford Goodier&lt;br&gt;Ira Greenwood&lt;br&gt;Albert Victor Hands&lt;br&gt;James Edward Holmes&lt;br&gt;John Holmes&lt;br&gt;Joseph Martin&lt;br&gt;Joseph Merry&lt;br&gt;John Arnold Mitchell&lt;br&gt;Gilbert Moore&lt;br&gt;John William Parker&lt;br&gt;Nathanael Parker&lt;br&gt;Harold Ratcliffe&lt;br&gt;Herbert William Rich&lt;br&gt;Lewis Abraham Roper&lt;br&gt;Robert Eric Scarborough&lt;br&gt;Arthur Smith&lt;br&gt;Alfred Southam&lt;br&gt;Lawrence Ethelbert Wall&lt;br&gt;Garnet Walton&lt;br&gt;Heaton Whitaker&lt;br&gt;Harold Wilmot&lt;br&gt;Joseph Wright</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.955977,53.831022,0.000000 -1.955953,53.831023,0.000000 -1.955954,53.831031,0.000000 -1.955977,53.831030,0.000000 -1.955977,53.831022,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-22</name>
-      <description>Inlay to north windowsill&lt;br&gt;In reverence to God and ever loving memory of Mary Primrose Ellender wife of William Alan Ellender and daughter of John Connal and&lt;br&gt;Isabella Primrose Wilson Born 7 Nov. 1901 ~ died 2 Jan. 1982&lt;br&gt;Requiescat in Pace</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.955978,53.831052,0.000000 -1.955955,53.831053,0.000000 -1.955955,53.831061,0.000000 -1.955978,53.831060,0.000000 -1.955978,53.831052,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name>f-24</name>
-      <description>Roll of Honour Haworth 1914-18 1939-45 near north door&lt;br&gt;Left hand panel:&lt;br&gt;J.Asquith J.Bailey S.Bancroft W.Barrett M.Bailey H.Barwick H.Bell J.W.Bell L.L.Bell L.Bell W.H.Bearsley T.Beechey C.Bennet M.Brown N.Coates T.Cottler F.Davies R.Dent W.Dixon&lt;br&gt;W.Dolby W.Ellis E.Feather T.Feather J.Gart??? E.Greenwood E.W.Greenwood L.Goodier W.C.Haggar A.V.Hands&lt;br&gt;J.Harker H.Hodgson W.Hollindrake J.E.Holmes J.Holmes B.Jmeson ? P.Jackson L.Jackson K.Kilminster&lt;br&gt;W.T.Kilminster T.Long J.Lynch L.Martin J.Merry W.Metcalfe G.Mills G.Mitchell R.North E.Nuttall J.E.Parker J.W.Parker N.Parker W.H.Patterson G.Peacock J.Pickles&lt;br&gt;O.Peacock F.Pickles S.Rainford H.Ratcliffe H.Rich A.Riddihough C.Robinson W.Robinson I.Roper&lt;br&gt;A.Rushworth A.F.Rushworth R.Rutter H.Scarborough R.E.Scarborough S.Schofield J.E.Siddle E.U.Carr&lt;br&gt;Right hand panel:&lt;br&gt;A.Smith H.Smith J.Snowden A.Southam D.Southam W.Stanley R.Sugden T.Todd A.Uttley D.Wright&lt;br&gt;D.Waddington L.E.Wall G.Walton H.Webster L.A.Weller H.Wellman H.Whitaker A.Woodward&lt;br&gt;T.Whitaker C.White I.Whiteley C.Widdop W.H.Wilmot H.Wood R.Woodcock F.Stevens&lt;br&gt;R.Mitchell F.Heaton A.Johnson N.Pac??? J.R.Andrews N.Bailey T.Baker J.Mainwaring&lt;br&gt;C.Bradbury J.Butterfield J.Chaplin J.L.Crane C.Cox L.Dent E.Fieldhouse A.Hampton E.Harris E.Humphries&lt;br&gt;G.Humphries H.Hawksworth F.Kerry D.Chaplin A.Martin I.L.Metcalfe D.Miller E.Mitchell E.Mudd&lt;br&gt;C.Mannoch A.Greenwood I.Morrison A.Peacock J.Pilkington H.Preston J.N.Redman J.Preston A.E.Scull&lt;br&gt;R.J.Sheldon R.Ratcliffe D.Stones C.Swinford G.H.Southcott R.E.Toothill I.C.Ward C.E.Windle H.Whittherley A.Whitaker&lt;br&gt;They shall grow not old as we that are left grow old&lt;br&gt;Age shall not weary them nor the years condemn&lt;br&gt;At the going down of the sun and in the morning we will remember them</description>
-      <visibility>1</visibility>
-      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-1.955949,53.831023,0.000000 -1.955925,53.831024,0.000000 -1.955926,53.831032,0.000000 -1.955949,53.831031,0.000000 -1.955949,53.831023,0.000000</coordinates>
+            <coordinates>-1.956175,53.831211,0.000000 -1.956151,53.831212,0.000000 -1.956151,53.831220,0.000000 -1.956175,53.831219,0.000000 -1.956175,53.831211,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -307,7 +99,20 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955919,53.830964,0.000000 -1.955895,53.830965,0.000000 -1.955895,53.830973,0.000000 -1.955919,53.830972,0.000000 -1.955919,53.830964,0.000000</coordinates>
+            <coordinates>-1.956175,53.831231,0.000000 -1.956152,53.831232,0.000000 -1.956152,53.831240,0.000000 -1.956176,53.831239,0.000000 -1.956175,53.831231,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-11</name>
+      <description>To the Glory of God and in memory of EDWIN ROBINSON MERRALL of Longlands, born February 13th 1849. Died January 27th 1904.&lt;br&gt;This tablet was erected by the organist &amp; members of the choir in grateful remembrance of his generosity and sympathy.&lt;br&gt;'Until the day break and the shadows flee away.'</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956144,53.831142,0.000000 -1.956120,53.831143,0.000000 -1.956121,53.831151,0.000000 -1.956144,53.831150,0.000000 -1.956144,53.831142,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -320,7 +125,20 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955919,53.830974,0.000000 -1.955895,53.830975,0.000000 -1.955896,53.830983,0.000000 -1.955919,53.830982,0.000000 -1.955919,53.830974,0.000000</coordinates>
+            <coordinates>-1.956147,53.831232,0.000000 -1.956124,53.831233,0.000000 -1.956124,53.831241,0.000000 -1.956147,53.831240,0.000000 -1.956147,53.831232,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-12</name>
+      <description>To the glory of God And in memory of ROBERT HENRY MOORE, who faithfully served this church as organist &amp; choirmaster for 36 years.&lt;br&gt;Died 14th Nov. 1926. Aged 70 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956116,53.831143,0.000000 -1.956092,53.831144,0.000000 -1.956093,53.831152,0.000000 -1.956116,53.831151,0.000000 -1.956116,53.831143,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -333,7 +151,20 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955919,53.830984,0.000000 -1.955896,53.830985,0.000000 -1.955896,53.830993,0.000000 -1.955920,53.830992,0.000000 -1.955919,53.830984,0.000000</coordinates>
+            <coordinates>-1.956119,53.831233,0.000000 -1.956095,53.831234,0.000000 -1.956096,53.831242,0.000000 -1.956119,53.831241,0.000000 -1.956119,53.831233,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-8</name>
+      <description>In Loving Memory of GEORGE FIRTH of Manningham, Thorpe, Bradford, Merchant, who died April 17th 1890 and who presented the&lt;br&gt;pulpit and chancel screen in this church. This tablet is erected by his widow.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956088,53.831144,0.000000 -1.956064,53.831145,0.000000 -1.956064,53.831153,0.000000 -1.956088,53.831152,0.000000 -1.956088,53.831144,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -346,7 +177,111 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955920,53.830994,0.000000 -1.955896,53.830995,0.000000 -1.955896,53.831003,0.000000 -1.955920,53.831002,0.000000 -1.955920,53.830994,0.000000</coordinates>
+            <coordinates>-1.956091,53.831234,0.000000 -1.956067,53.831235,0.000000 -1.956068,53.831243,0.000000 -1.956091,53.831242,0.000000 -1.956091,53.831234,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-14</name>
+      <description>To The Memory of the Benefactors, to the poor of Haworth Parish.&lt;br&gt;Abraham Kitching of the parish aforesaid, Left 10 shillings Per Annum for ever to be divided yearly, amongst the said poor:&lt;br&gt;David Midgley, Lord of the Manor of Haworth, Left a FARM, forever to Clothe yearly, 10 Poor Children (in Blue) belonging to the said Parish:&lt;br&gt;Mr. RICHARD POLLARD, of Stanbury, in the Parish of Haworth, Left 2 Pounds 10 Shillings Per Annum forever, to be Divided on Christmas Day,&lt;br&gt;amongst the Poor of the Townships or Hamlets of Haworth &amp; Stanbury.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956059,53.831145,0.000000 -1.956036,53.831146,0.000000 -1.956036,53.831154,0.000000 -1.956060,53.831153,0.000000 -1.956059,53.831145,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-2</name>
+      <description>THIS MONUMENT is erected in memory of Grace daughter of the late Henry Cockroft, Esqr. of Great Burlees, Wadsworth, in the Parish of Halifax,&lt;br&gt;and wife of Joseph Greenwood, Esqr. magistrate, of Spring Head, Keighley. She departed this life, April the 9th 1822 in the 58th year of her age.&lt;br&gt;Also in memory of Sarah, daughter of the aforesaid Joseph and Grace Greenwood, who departed this life May the 6th 1833 in the 17th year of her age.&lt;br&gt;ALSO in memory of Ann their daughter, who departed this life December the 6th 1838 in the 19th year of her age.&lt;br&gt;Also of the above named Joseph Greenwood, who departed this life April the 24th 1856, in the 71st year of his age.&lt;br&gt;He was one of the Justices of the Peace for the West Riding of the County of York.&lt;br&gt;Also in remembrance of William Cockroft, eldest son of the above Joseph and Grace Greenwood, who died October 6th 1836, aged 45 years.&lt;br&gt;Take heed, watch and pray; for ye know not when the time is. Mark XIII. 35.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956031,53.831146,0.000000 -1.956008,53.831147,0.000000 -1.956008,53.831155,0.000000 -1.956032,53.831154,0.000000 -1.956031,53.831146,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-25</name>
+      <description>image 245-4547 Anne Bronte grave at St Mary's churchyard, Scarborough.&lt;br&gt;Here lie the remains of ANNE BRONTE, daughter of the REVd. P Bronte, incumbent of Haworth Yorkshire.&lt;br&gt;She died Aged 28 May 28th 1849.&lt;br&gt;Anne Bronte grave at Scarborough&lt;br&gt;The Bronte family is not buried in the churchyard, but in an inaccessible vault beneath the church itself, in the south-east corner, near the Bronte chapel.&lt;br&gt;Buried here are the Revd. Patrick Bronte's wife Maria (1783-1821), his two eldest daughters Maria (1814-1825) and Elizabeth (1815-1825),&lt;br&gt;his sister-in-law, Elizabeth Branwell (1776-1842), his only son Branwell (1817-1848), his daughters the novelists Emily (1818-1848) and Charlotte (1816-1855)&lt;br&gt;and finally Patrick himself (1777-1861), who outlived all his family.&lt;br&gt;The youngest, Anne (1820-1849) died at Scarborough on the Yorkshire coast and is buried in St Mary's churchyard, overlooking the sea.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956003,53.831147,0.000000 -1.955980,53.831148,0.000000 -1.955980,53.831156,0.000000 -1.956003,53.831155,0.000000 -1.956003,53.831147,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-15</name>
+      <description>Inscribed at bottom of right hand arch leading to the Bronte chapel.&lt;br&gt;The Bronte Memorial Chapel was furnished by Sir Tresham Lever, Bt., and dedicated on the 4th July 1964 by&lt;br&gt;The Right Reverend Clement George S. Michael Parker Bishop of Bradford. [Bronte]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956003,53.831157,0.000000 -1.955980,53.831158,0.000000 -1.955980,53.831166,0.000000 -1.956004,53.831165,0.000000 -1.956003,53.831157,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-16</name>
+      <description>Inscribed at bottom of left hand arch leading to the Bronte chapel.&lt;br&gt;The Bronte Family vault is situated below this pillar near to the place where the Bronte pew stood in the old church.&lt;br&gt;The following members of the family were buried here Maria and Patrick, Maria, Elizabeth, Branwell, Emily Jane, Charlotte. [Bronte]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956004,53.831177,0.000000 -1.955981,53.831178,0.000000 -1.955981,53.831186,0.000000 -1.956004,53.831185,0.000000 -1.956004,53.831177,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-17</name>
+      <description>On the floor to the left of the left hand column.&lt;br&gt;In memory of Emily Jane Bronte who died Dec. 19th 1848 aged 30 years and of Charlotte Bronte born April 21st 1816 died March 31st 1855.&lt;br&gt;[The Bronte memorial tablet is recorded overleaf.] [Bronte]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956004,53.831187,0.000000 -1.955981,53.831188,0.000000 -1.955981,53.831196,0.000000 -1.956005,53.831195,0.000000 -1.956004,53.831187,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-10</name>
+      <description>Interior North wall 1914-1918 war&lt;br&gt;To the honoured Memory of those men of this church, and Stanbury, who gave their lives in the Great War 1914 - 1918.&lt;br&gt;This memorial is placed here in grateful remembrance.&lt;br&gt;Joseph Henry Bailey&lt;br&gt;Thomas James Beechey&lt;br&gt;Laurence Bell&lt;br&gt;George William Bellwood&lt;br&gt;William Robert Dixon&lt;br&gt;William Arthur Dolby&lt;br&gt;Lynford Goodier&lt;br&gt;Ira Greenwood&lt;br&gt;Albert Victor Hands&lt;br&gt;James Edward Holmes&lt;br&gt;John Holmes&lt;br&gt;Joseph Martin&lt;br&gt;Joseph Merry&lt;br&gt;John Arnold Mitchell&lt;br&gt;Gilbert Moore&lt;br&gt;John William Parker&lt;br&gt;Nathanael Parker&lt;br&gt;Harold Ratcliffe&lt;br&gt;Herbert William Rich&lt;br&gt;Lewis Abraham Roper&lt;br&gt;Robert Eric Scarborough&lt;br&gt;Arthur Smith&lt;br&gt;Alfred Southam&lt;br&gt;Lawrence Ethelbert Wall&lt;br&gt;Garnet Walton&lt;br&gt;Heaton Whitaker&lt;br&gt;Harold Wilmot&lt;br&gt;Joseph Wright</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956006,53.831217,0.000000 -1.955982,53.831218,0.000000 -1.955982,53.831226,0.000000 -1.956006,53.831225,0.000000 -1.956006,53.831217,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-24</name>
+      <description>Roll of Honour Haworth 1914-18 1939-45 near north door&lt;br&gt;Left hand panel:&lt;br&gt;J.Asquith J.Bailey S.Bancroft W.Barrett M.Bailey H.Barwick H.Bell J.W.Bell L.L.Bell L.Bell W.H.Bearsley T.Beechey C.Bennet M.Brown N.Coates T.Cottler F.Davies R.Dent W.Dixon&lt;br&gt;W.Dolby W.Ellis E.Feather T.Feather J.Gart??? E.Greenwood E.W.Greenwood L.Goodier W.C.Haggar A.V.Hands&lt;br&gt;J.Harker H.Hodgson W.Hollindrake J.E.Holmes J.Holmes B.Jmeson ? P.Jackson L.Jackson K.Kilminster&lt;br&gt;W.T.Kilminster T.Long J.Lynch L.Martin J.Merry W.Metcalfe G.Mills G.Mitchell R.North E.Nuttall J.E.Parker J.W.Parker N.Parker W.H.Patterson G.Peacock J.Pickles&lt;br&gt;O.Peacock F.Pickles S.Rainford H.Ratcliffe H.Rich A.Riddihough C.Robinson W.Robinson I.Roper&lt;br&gt;A.Rushworth A.F.Rushworth R.Rutter H.Scarborough R.E.Scarborough S.Schofield J.E.Siddle E.U.Carr&lt;br&gt;Right hand panel:&lt;br&gt;A.Smith H.Smith J.Snowden A.Southam D.Southam W.Stanley R.Sugden T.Todd A.Uttley D.Wright&lt;br&gt;D.Waddington L.E.Wall G.Walton H.Webster L.A.Weller H.Wellman H.Whitaker A.Woodward&lt;br&gt;T.Whitaker C.White I.Whiteley C.Widdop W.H.Wilmot H.Wood R.Woodcock F.Stevens&lt;br&gt;R.Mitchell F.Heaton A.Johnson N.Pac??? J.R.Andrews N.Bailey T.Baker J.Mainwaring&lt;br&gt;C.Bradbury J.Butterfield J.Chaplin J.L.Crane C.Cox L.Dent E.Fieldhouse A.Hampton E.Harris E.Humphries&lt;br&gt;G.Humphries H.Hawksworth F.Kerry D.Chaplin A.Martin I.L.Metcalfe D.Miller E.Mitchell E.Mudd&lt;br&gt;C.Mannoch A.Greenwood I.Morrison A.Peacock J.Pilkington H.Preston J.N.Redman J.Preston A.E.Scull&lt;br&gt;R.J.Sheldon R.Ratcliffe D.Stones C.Swinford G.H.Southcott R.E.Toothill I.C.Ward C.E.Windle H.Whittherley A.Whitaker&lt;br&gt;They shall grow not old as we that are left grow old&lt;br&gt;Age shall not weary them nor the years condemn&lt;br&gt;At the going down of the sun and in the morning we will remember them</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956006,53.831227,0.000000 -1.955982,53.831228,0.000000 -1.955983,53.831236,0.000000 -1.956006,53.831235,0.000000 -1.956006,53.831227,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -359,7 +294,72 @@
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-1.955921,53.831024,0.000000 -1.955897,53.831025,0.000000 -1.955897,53.831033,0.000000 -1.955921,53.831032,0.000000 -1.955921,53.831024,0.000000</coordinates>
+            <coordinates>-1.956006,53.831237,0.000000 -1.955983,53.831238,0.000000 -1.955983,53.831246,0.000000 -1.956006,53.831245,0.000000 -1.956006,53.831237,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-19</name>
+      <description>Inside the Bronte chapel (South wall) [Photograph]&lt;br&gt;In memory of Maria, wife of the Revd. P. Bronte A.B. Minister of Haworth she died Sept 15th 1821, in the 39th year of her age.&lt;br&gt;Also of Maria, their daughter; who died May 6th 1825 in the 12th year of her age.&lt;br&gt;Also of Elizabeth, their daughter; who died June 15th 1825 in the 11th year of her age.&lt;br&gt;Also of Patrick Branwell, their son; who died Septr. 24th 1848 aged 31 years.&lt;br&gt;Also of Emily Jane, their daughter; who died Decr. 19th 1848 aged 30 years.&lt;br&gt;Also of Anne, their daughter; who died May 28th 1849 aged 29 years. She was buried at The Old Church, Scarborough.&lt;br&gt;Also of Charlotte, their daughter; wife of the Revd. A.B.Nicholls, B.A. She died March 31st 1855 in the 39th year of her age.&lt;br&gt;Also of the aforenamed Revd. P.Bronte, A.B. who died June 7th 186l in the 85th year of his age, having been Incumbent of Haworth for upwards of 41 years.&lt;br&gt;'The sting of Death is Sin, and the Strength of Sin is the Law, but thanks be to God, which giveth us the Victory through our Lord Jesus Christ.'&lt;br&gt;1. Cor. XV 56 57. [Bronte]</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955976,53.831168,0.000000 -1.955952,53.831169,0.000000 -1.955952,53.831177,0.000000 -1.955976,53.831176,0.000000 -1.955976,53.831168,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-18</name>
+      <description>Inside the Bronte chapel (North wall)&lt;br&gt;In memory of ELIZABETH BRANWELL who died on 29th October 1842 Aged 66 years.</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955919,53.831170,0.000000 -1.955896,53.831171,0.000000 -1.955896,53.831179,0.000000 -1.955920,53.831178,0.000000 -1.955919,53.831170,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-20</name>
+      <description>Inlay to north windowsill&lt;br&gt;William Alan Ellender born 19th October 1897 died 22nd March 1986</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955920,53.831180,0.000000 -1.955896,53.831181,0.000000 -1.955896,53.831189,0.000000 -1.955920,53.831188,0.000000 -1.955920,53.831180,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-21</name>
+      <description>Inlay to north windowsill&lt;br&gt;In reverence to God and ever loving memory of Isabella Primrose Wilson wife of John Connal Wilson&lt;br&gt;Born 24 Feb. 1862 ~ died 13 June 1940. Requiescat in Pace</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955920,53.831200,0.000000 -1.955897,53.831201,0.000000 -1.955897,53.831209,0.000000 -1.955921,53.831208,0.000000 -1.955920,53.831200,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>f-22</name>
+      <description>Inlay to north windowsill&lt;br&gt;In reverence to God and ever loving memory of Mary Primrose Ellender wife of William Alan Ellender and daughter of John Connal and&lt;br&gt;Isabella Primrose Wilson Born 7 Nov. 1901 ~ died 2 Jan. 1982&lt;br&gt;Requiescat in Pace</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.955921,53.831220,0.000000 -1.955897,53.831221,0.000000 -1.955898,53.831229,0.000000 -1.955921,53.831228,0.000000 -1.955921,53.831220,0.000000</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>

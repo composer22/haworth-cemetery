@@ -1,11 +1,11 @@
 section,grave_id,row,column,inscription
-F,1,10,7,"HAWORTH Interior West wall
+F,1,7,10,"HAWORTH Interior West wall
 SACRED to the memory of JOSEPH MIDGLEY Esq. of Oldfield in the Parish of Keighley late Lord of the Manor of Haworth who died November 10th 1765 aged 46 years.
 ALSO of MARY relict of the late Joseph Midgley Esq. who died December 11th 1795 aged 73 years.
 ALSO of NATHAN MIDGLEY son of the above who died August 15th 1835 aged 69 years.
 ALSO of ELLEN their daughter who died December 15th 1839 aged 8 years.
 ALSO of THOMAS MIDGLEY GENT. of Deanfield son of the above named JOSEPH MIDGLEY Esq. who died January 28th 1845 aged 81 years."
-F,2,1,6,"THIS MONUMENT is erected in memory of Grace daughter of the late Henry Cockroft, Esqr. of Great Burlees, Wadsworth, in the Parish of Halifax,
+F,2,6,1,"THIS MONUMENT is erected in memory of Grace daughter of the late Henry Cockroft, Esqr. of Great Burlees, Wadsworth, in the Parish of Halifax,
 and wife of Joseph Greenwood, Esqr. magistrate, of Spring Head, Keighley. She departed this life, April the 9th 1822 in the 58th year of her age.
 Also in memory of Sarah, daughter of the aforesaid Joseph and Grace Greenwood, who departed this life May the 6th 1833 in the 17th year of her age.
 ALSO in memory of Ann their daughter, who departed this life December the 6th 1838 in the 19th year of her age.
@@ -13,18 +13,18 @@ Also of the above named Joseph Greenwood, who departed this life April the 24th 
 He was one of the Justices of the Peace for the West Riding of the County of York.
 Also in remembrance of William Cockroft, eldest son of the above Joseph and Grace Greenwood, who died October 6th 1836, aged 45 years.
 Take heed, watch and pray; for ye know not when the time is. Mark XIII. 35."
-F,3,10,3,"Interior West wall
+F,3,3,10,"Interior West wall
 In memory of Thomas Andrew, who was born 1790, At Glen-Lee Mill, New Galloway, Scotland, Graduated at the University of Edinburgh, and,
 after 24 years practice as surgeon in Haworth, died April 29th AD 1842, aged 52 years.
 THIS TABLET was erected by those who knew his worth, and who feel that, while in his death, their neighbourhood has lost an honourable and upright man,
 the poor have lost an able adviser in their calamities, and a generous friend in their need."
-F,4,10,4,"THIS MONUMENT was erected by the inhabitants, in memory of the late William Weightman, M.A. who died Septr. 6th 1842, Aged 26 years and
+F,4,4,10,"THIS MONUMENT was erected by the inhabitants, in memory of the late William Weightman, M.A. who died Septr. 6th 1842, Aged 26 years and
 was buried in this church on the 10th of the same month. He was three years curate of Haworth, and by the congregation, and parishioners in general,
 was greatly respected, for his orthodox principles, active zeal, moral habits, learning, mildness and affability: his useful labours will long be
 gratefully remembered by the members of the congregation, and Sunday School teachers, and scholars."
-F,5,3,1,"In Memory of GEORGE OATES GREENWOOD Esq. of NETHER WOOD HOUSE
+F,5,1,3,"In Memory of GEORGE OATES GREENWOOD Esq. of NETHER WOOD HOUSE
 formerly of Moorhouse in the Township; who died April 26th, and was interred at Addingham May 1st, 1845, Aged 47 years."
-F,6,8,1,"Interior South wall
+F,6,1,8,"Interior South wall
 Incumbents. Haworth Parish Church.
 J.Collier, Expelled.		1654.
 E.Garforth, Puritan.		1654.
@@ -51,13 +51,13 @@ C.Manchester, B.D.		1961.
 R.T.Hughes, B.A.		1967.
 D.F.Ashdown, M.A.		1974.
 C.Spivey,			1983."
-F,7,2,1,"In Loving memory of the REV. THOMAS WILLIAM STORY, M.A. Rector of this Parish 1899-1919 Died 22 November 1939 aged 77 years.
+F,7,1,2,"In Loving memory of the REV. THOMAS WILLIAM STORY, M.A. Rector of this Parish 1899-1919 Died 22 November 1939 aged 77 years.
 Also of MARY JANE his wife died 31 January 1952, aged 84 years.
 This tablet is erected by their son and daughter."
-F,8,1,4,"In Loving Memory of GEORGE FIRTH of Manningham, Thorpe, Bradford, Merchant, who died April 17th 1890 and who presented the
+F,8,4,1,"In Loving Memory of GEORGE FIRTH of Manningham, Thorpe, Bradford, Merchant, who died April 17th 1890 and who presented the
 pulpit and chancel screen in this church. This tablet is erected by his widow."
-F,9,4,1,In memory of Bernard Atkinson Slocombe 8th July 1887 - 3rd August 1956 Physician and Surgeon who practised in Keighley for 37 years & who loved this church.
-F,10,8,7,"Interior North wall 1914-1918 war
+F,9,1,4,In memory of Bernard Atkinson Slocombe 8th July 1887 - 3rd August 1956 Physician and Surgeon who practised in Keighley for 37 years & who loved this church.
+F,10,7,8,"Interior North wall 1914-1918 war
 To the honoured Memory of those men of this church, and Stanbury, who gave their lives in the Great War 1914 - 1918.
 This memorial is placed here in grateful remembrance.
 Joseph Henry Bailey
@@ -88,35 +88,35 @@ Garnet Walton
 Heaton Whitaker
 Harold Wilmot
 Joseph Wright"
-F,11,1,2,"To the Glory of God and in memory of EDWIN ROBINSON MERRALL of Longlands, born February 13th 1849. Died January 27th 1904.
+F,11,2,1,"To the Glory of God and in memory of EDWIN ROBINSON MERRALL of Longlands, born February 13th 1849. Died January 27th 1904.
 This tablet was erected by the organist & members of the choir in grateful remembrance of his generosity and sympathy.
 'Until the day break and the shadows flee away.'"
-F,12,1,3,"To the glory of God And in memory of ROBERT HENRY MOORE, who faithfully served this church as organist & choirmaster for 36 years.
+F,12,3,1,"To the glory of God And in memory of ROBERT HENRY MOORE, who faithfully served this church as organist & choirmaster for 36 years.
 Died 14th Nov. 1926. Aged 70 years."
-F,13,10,1,"To the Honoured memory of those men from this church who gave their lives in the Second World War 1939 - 1945
+F,13,1,10,"To the Honoured memory of those men from this church who gave their lives in the Second World War 1939 - 1945
 This memorial is placed here in grateful remembrance
 Angus Martin
 Herbert Metcalfe
 Frank Mitchell
 Albert Edward Scull
 Robert Sheldon"
-F,14,1,5,"To The Memory of the Benefactors, to the poor of Haworth Parish.
+F,14,5,1,"To The Memory of the Benefactors, to the poor of Haworth Parish.
 Abraham Kitching of the parish aforesaid, Left 10 shillings Per Annum for ever to be divided yearly, amongst the said poor:
 David Midgley, Lord of the Manor of Haworth, Left a FARM, forever to Clothe yearly, 10 Poor Children (in Blue) belonging to the said Parish:
 Mr. RICHARD POLLARD, of Stanbury, in the Parish of Haworth, Left 2 Pounds 10 Shillings Per Annum forever, to be Divided on Christmas Day,
 amongst the Poor of the Townships or Hamlets of Haworth & Stanbury."
-F,15,2,7,"Inscribed at bottom of right hand arch leading to the Bronte chapel.
+F,15,7,2,"Inscribed at bottom of right hand arch leading to the Bronte chapel.
 The Bronte Memorial Chapel was furnished by Sir Tresham Lever, Bt., and dedicated on the 4th July 1964 by
 The Right Reverend Clement George S. Michael Parker Bishop of Bradford. [Bronte]"
-F,16,4,7,"Inscribed at bottom of left hand arch leading to the Bronte chapel.
+F,16,7,4,"Inscribed at bottom of left hand arch leading to the Bronte chapel.
 The Bronte Family vault is situated below this pillar near to the place where the Bronte pew stood in the old church.
 The following members of the family were buried here Maria and Patrick, Maria, Elizabeth, Branwell, Emily Jane, Charlotte. [Bronte]"
-F,17,5,7,"On the floor to the left of the left hand column.
+F,17,7,5,"On the floor to the left of the left hand column.
 In memory of Emily Jane Bronte who died Dec. 19th 1848 aged 30 years and of Charlotte Bronte born April 21st 1816 died March 31st 1855.
 [The Bronte memorial tablet is recorded overleaf.] [Bronte]"
-F,18,3,10,"Inside the Bronte chapel (North wall)
+F,18,10,3,"Inside the Bronte chapel (North wall)
 In memory of ELIZABETH BRANWELL who died on 29th October 1842 Aged 66 years."
-F,19,3,8,"Inside the Bronte chapel (South wall) [Photograph]
+F,19,8,3,"Inside the Bronte chapel (South wall) [Photograph]
 In memory of Maria, wife of the Revd. P. Bronte A.B. Minister of Haworth she died Sept 15th 1821, in the 39th year of her age.
 Also of Maria, their daughter; who died May 6th 1825 in the 12th year of her age.
 Also of Elizabeth, their daughter; who died June 15th 1825 in the 11th year of her age.
@@ -127,16 +127,16 @@ Also of Charlotte, their daughter; wife of the Revd. A.B.Nicholls, B.A. She died
 Also of the aforenamed Revd. P.Bronte, A.B. who died June 7th 186l in the 85th year of his age, having been Incumbent of Haworth for upwards of 41 years.
 'The sting of Death is Sin, and the Strength of Sin is the Law, but thanks be to God, which giveth us the Victory through our Lord Jesus Christ.'
 1. Cor. XV 56 57. [Bronte]"
-F,20,4,10,"Inlay to north windowsill
+F,20,10,4,"Inlay to north windowsill
 William Alan Ellender born 19th October 1897 died 22nd March 1986"
-F,21,6,10,"Inlay to north windowsill
+F,21,10,6,"Inlay to north windowsill
 In reverence to God and ever loving memory of Isabella Primrose Wilson wife of John Connal Wilson
 Born 24 Feb. 1862 ~ died 13 June 1940. Requiescat in Pace"
-F,22,8,10,"Inlay to north windowsill
+F,22,10,8,"Inlay to north windowsill
 In reverence to God and ever loving memory of Mary Primrose Ellender wife of William Alan Ellender and daughter of John Connal and
 Isabella Primrose Wilson Born 7 Nov. 1901 ~ died 2 Jan. 1982
 Requiescat in Pace"
-F,23,10,2,"Roll of honour three wooden panels at west end
+F,23,2,10,"Roll of honour three wooden panels at west end
 Roll of Honour left panel:
 H.Anderson J.Bartle E.Beechey L.Bell A.Binns H.Boocock J.E.Bradbury C.Carass J.M.Chapman T.R.Chapman J.Clarke S.L.Craft H.Dixon
 F.Duffy G.Ford L.Goodier G.Hampton H.Hands W.Hands W.Haw H.Holmes R.Holroyd E.Hudson W.Hudson L.Jackson L.Kay B.Kendall L.Kendall
@@ -158,7 +158,7 @@ J.R.Schofield N.Scull P.Scull B.Shackleton W.Shackleton H.Shackleton F.Smith W.A
 W.Suggitt W.Tempest T.Tetley A.Thurling W.Toothill J.Waddington A.H.Wall L.E.Wall C.Walton G.Walton N.Widdop J.Wildman Harold Wilmot
 Herbert Wilmot P.Wilson J.Wood L.Woodman J.Wright T.Wright
 [text to be checked against original panel]"
-F,24,9,7,"Roll of Honour Haworth 1914-18 1939-45 near north door
+F,24,7,9,"Roll of Honour Haworth 1914-18 1939-45 near north door
 Left hand panel:
 J.Asquith J.Bailey S.Bancroft W.Barrett M.Bailey H.Barwick H.Bell J.W.Bell L.L.Bell L.Bell W.H.Bearsley T.Beechey C.Bennet M.Brown N.Coates T.Cottler F.Davies R.Dent W.Dixon
 W.Dolby W.Ellis E.Feather T.Feather J.Gart??? E.Greenwood E.W.Greenwood L.Goodier W.C.Haggar A.V.Hands
@@ -178,7 +178,7 @@ R.J.Sheldon R.Ratcliffe D.Stones C.Swinford G.H.Southcott R.E.Toothill I.C.Ward 
 They shall grow not old as we that are left grow old
 Age shall not weary them nor the years condemn
 At the going down of the sun and in the morning we will remember them"
-F,25,1,7,"image 245-4547 Anne Bronte grave at St Mary's churchyard, Scarborough.
+F,25,7,1,"image 245-4547 Anne Bronte grave at St Mary's churchyard, Scarborough.
 Here lie the remains of ANNE BRONTE, daughter of the REVd. P Bronte, incumbent of Haworth Yorkshire.
 She died Aged 28 May 28th 1849.
 Anne Bronte grave at Scarborough

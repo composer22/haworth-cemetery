@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>St. Michael and All Angels Graveyard, Haworth UK </name>
-    <description><![CDATA[This is a  map or graves and monuments in the cemetery of the Parish Church of St. Michael and All Angels, Haworth, Yorkshire, UK. <br><br>The data was prepared by Ms. Margaret Jennings and Ms. Mary McNaulty over a period of 10 years. Ms..Margaret Platt also assisted.<br><br>A number of other people verified and transcribed this data since the 70's when this data was originally compiled:  <br>• Margaret Jennings<br>• Margaret Platt<br>• Ms. Isabel Holder<br>• Ms. Freda Mitchell<br>• Ms. Eileen Smith<br>• Mary McNaulty.<br><br>Rev. Colin Spivey in 1986 is credited for having the church graveyard restored so that the data could be verified.<br><br>Special thanks to Haworth Church persons for helping me gather this data and for answering my questions::<br>• Steven Wood<br>• Peter Appleyard<br>• Jens Hislop<br>• John Huxley<br><br>-- BK<br>]]></description>
+    <name>St. Michael and All Angels, Haworth UK </name>
+    <description><![CDATA[This is a  map or graves and monuments in the cemetery of the Parish Church of St. Michael and All Angels, Haworth, Yorkshire, UK. <br><br>The data was prepared by Ms. Margaret Jennings and Ms. Mary McNaulty over a period of 10 years. Ms..Margaret Platt also assisted.<br><br>A number of other people verified and transcribed this data since the 70's when this data was originally compiled:  <br>• Margaret Jennings<br>• Margaret Platt<br>• Ms. Isabel Holder<br>• Ms. Freda Mitchell<br>• Ms. Eileen Smith<br>• Mary McNaulty.<br><br>Rev. Colin Spivey in 1986 is credited for having the church graveyard restored so that the data could be verified.<br><br>Special thanks to Haworth Church persons for helping me gather this data and for answering my questions::<br>• Steven Wood<br>• Peter Appleyard<br>• Johnnie Briggs<br>• Jens Hislop<br>• John Huxley<br><br>-- BK<br>]]></description>
     <Style id="poly-000000-1200-77-normal">
       <LineStyle>
         <color>ff000000</color>

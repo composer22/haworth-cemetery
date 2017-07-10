@@ -1,0 +1,1214 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Test Rotation</name>
+    <description>This is a test of the rotation feature of the shapely library.</description>
+    <visibility>1</visibility>
+    <Style id="poly-BDBDBD-1-77-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-BDBDBD-1-77-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dbdbdbd</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-BDBDBD-1-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-BDBDBD-1-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-BDBDBD-1-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+  <Folder>
+    <name>Section Rotation-Test</name>
+    <visibility>1</visibility>
+    <Placemark>
+      <name>Degrees: 0.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956456,53.830690,0.000000 -1.956433,53.830690,0.000000 -1.956433,53.830698,0.000000 -1.956456,53.830698,0.000000 -1.956456,53.830690,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 4.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956457,53.830700,0.000000 -1.956434,53.830701,0.000000 -1.956434,53.830710,0.000000 -1.956458,53.830708,0.000000 -1.956457,53.830700,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 8.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956459,53.830710,0.000000 -1.956435,53.830713,0.000000 -1.956437,53.830721,0.000000 -1.956460,53.830718,0.000000 -1.956459,53.830710,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 12.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956461,53.830719,0.000000 -1.956438,53.830724,0.000000 -1.956440,53.830732,0.000000 -1.956463,53.830727,0.000000 -1.956461,53.830719,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 16.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956464,53.830728,0.000000 -1.956442,53.830735,0.000000 -1.956444,53.830743,0.000000 -1.956467,53.830736,0.000000 -1.956464,53.830728,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 20.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956468,53.830738,0.000000 -1.956446,53.830746,0.000000 -1.956449,53.830753,0.000000 -1.956471,53.830745,0.000000 -1.956468,53.830738,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 24.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956472,53.830746,0.000000 -1.956451,53.830756,0.000000 -1.956454,53.830764,0.000000 -1.956476,53.830754,0.000000 -1.956472,53.830746,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 28.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956477,53.830755,0.000000 -1.956456,53.830766,0.000000 -1.956460,53.830773,0.000000 -1.956481,53.830762,0.000000 -1.956477,53.830755,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 32.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956483,53.830763,0.000000 -1.956463,53.830776,0.000000 -1.956467,53.830783,0.000000 -1.956487,53.830770,0.000000 -1.956483,53.830763,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 36.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956489,53.830771,0.000000 -1.956470,53.830785,0.000000 -1.956475,53.830791,0.000000 -1.956494,53.830778,0.000000 -1.956489,53.830771,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 40.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956495,53.830778,0.000000 -1.956477,53.830793,0.000000 -1.956483,53.830800,0.000000 -1.956501,53.830785,0.000000 -1.956495,53.830778,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 44.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956503,53.830785,0.000000 -1.956486,53.830801,0.000000 -1.956491,53.830807,0.000000 -1.956508,53.830791,0.000000 -1.956503,53.830785,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 48.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956510,53.830791,0.000000 -1.956494,53.830809,0.000000 -1.956501,53.830814,0.000000 -1.956516,53.830797,0.000000 -1.956510,53.830791,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 52.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956518,53.830797,0.000000 -1.956504,53.830816,0.000000 -1.956510,53.830821,0.000000 -1.956525,53.830802,0.000000 -1.956518,53.830797,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 56.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956526,53.830802,0.000000 -1.956513,53.830822,0.000000 -1.956520,53.830827,0.000000 -1.956533,53.830807,0.000000 -1.956526,53.830802,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 60.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956535,53.830807,0.000000 -1.956523,53.830827,0.000000 -1.956531,53.830832,0.000000 -1.956542,53.830811,0.000000 -1.956535,53.830807,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 64.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956544,53.830811,0.000000 -1.956534,53.830832,0.000000 -1.956541,53.830836,0.000000 -1.956552,53.830815,0.000000 -1.956544,53.830811,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 68.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956553,53.830814,0.000000 -1.956545,53.830836,0.000000 -1.956552,53.830839,0.000000 -1.956561,53.830818,0.000000 -1.956553,53.830814,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 72.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956563,53.830817,0.000000 -1.956556,53.830840,0.000000 -1.956564,53.830842,0.000000 -1.956571,53.830820,0.000000 -1.956563,53.830817,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 76.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956573,53.830819,0.000000 -1.956567,53.830842,0.000000 -1.956575,53.830844,0.000000 -1.956581,53.830821,0.000000 -1.956573,53.830819,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 80.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956582,53.830821,0.000000 -1.956578,53.830844,0.000000 -1.956586,53.830845,0.000000 -1.956591,53.830822,0.000000 -1.956582,53.830821,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 84.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956592,53.830821,0.000000 -1.956590,53.830845,0.000000 -1.956598,53.830846,0.000000 -1.956600,53.830822,0.000000 -1.956592,53.830821,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 88.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956602,53.830821,0.000000 -1.956601,53.830845,0.000000 -1.956610,53.830845,0.000000 -1.956610,53.830822,0.000000 -1.956602,53.830821,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 92.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956612,53.830821,0.000000 -1.956613,53.830844,0.000000 -1.956621,53.830844,0.000000 -1.956620,53.830820,0.000000 -1.956612,53.830821,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 96.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956622,53.830819,0.000000 -1.956624,53.830843,0.000000 -1.956632,53.830842,0.000000 -1.956630,53.830818,0.000000 -1.956622,53.830819,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 100.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956631,53.830817,0.000000 -1.956635,53.830840,0.000000 -1.956644,53.830839,0.000000 -1.956640,53.830816,0.000000 -1.956631,53.830817,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 104.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956641,53.830814,0.000000 -1.956646,53.830837,0.000000 -1.956655,53.830835,0.000000 -1.956649,53.830812,0.000000 -1.956641,53.830814,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 108.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956650,53.830811,0.000000 -1.956657,53.830833,0.000000 -1.956665,53.830831,0.000000 -1.956658,53.830808,0.000000 -1.956650,53.830811,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 112.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956659,53.830807,0.000000 -1.956668,53.830829,0.000000 -1.956676,53.830826,0.000000 -1.956667,53.830804,0.000000 -1.956659,53.830807,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 116.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956668,53.830802,0.000000 -1.956678,53.830823,0.000000 -1.956686,53.830820,0.000000 -1.956675,53.830799,0.000000 -1.956668,53.830802,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 120.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956676,53.830797,0.000000 -1.956688,53.830817,0.000000 -1.956695,53.830813,0.000000 -1.956683,53.830793,0.000000 -1.956676,53.830797,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 124.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956684,53.830791,0.000000 -1.956697,53.830811,0.000000 -1.956704,53.830806,0.000000 -1.956691,53.830787,0.000000 -1.956684,53.830791,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 128.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956692,53.830785,0.000000 -1.956706,53.830803,0.000000 -1.956713,53.830798,0.000000 -1.956698,53.830780,0.000000 -1.956692,53.830785,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 132.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956699,53.830778,0.000000 -1.956715,53.830796,0.000000 -1.956721,53.830790,0.000000 -1.956705,53.830773,0.000000 -1.956699,53.830778,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 136.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956705,53.830771,0.000000 -1.956722,53.830787,0.000000 -1.956728,53.830781,0.000000 -1.956711,53.830765,0.000000 -1.956705,53.830771,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 140.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956711,53.830763,0.000000 -1.956729,53.830778,0.000000 -1.956735,53.830772,0.000000 -1.956717,53.830757,0.000000 -1.956711,53.830763,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 144.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956717,53.830755,0.000000 -1.956736,53.830769,0.000000 -1.956741,53.830762,0.000000 -1.956722,53.830748,0.000000 -1.956717,53.830755,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 148.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956722,53.830746,0.000000 -1.956742,53.830759,0.000000 -1.956746,53.830752,0.000000 -1.956726,53.830739,0.000000 -1.956722,53.830746,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 152.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956726,53.830737,0.000000 -1.956747,53.830748,0.000000 -1.956751,53.830741,0.000000 -1.956730,53.830730,0.000000 -1.956726,53.830737,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 156.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956730,53.830728,0.000000 -1.956751,53.830738,0.000000 -1.956755,53.830730,0.000000 -1.956733,53.830721,0.000000 -1.956730,53.830728,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 160.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956733,53.830719,0.000000 -1.956755,53.830727,0.000000 -1.956758,53.830719,0.000000 -1.956736,53.830711,0.000000 -1.956733,53.830719,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 164.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956735,53.830709,0.000000 -1.956758,53.830716,0.000000 -1.956760,53.830708,0.000000 -1.956738,53.830701,0.000000 -1.956735,53.830709,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 168.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956737,53.830700,0.000000 -1.956760,53.830704,0.000000 -1.956762,53.830696,0.000000 -1.956739,53.830691,0.000000 -1.956737,53.830700,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 172.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956738,53.830690,0.000000 -1.956761,53.830693,0.000000 -1.956762,53.830685,0.000000 -1.956739,53.830682,0.000000 -1.956738,53.830690,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 176.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956738,53.830680,0.000000 -1.956762,53.830681,0.000000 -1.956762,53.830673,0.000000 -1.956739,53.830672,0.000000 -1.956738,53.830680,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 180.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956738,53.830670,0.000000 -1.956761,53.830670,0.000000 -1.956761,53.830662,0.000000 -1.956738,53.830662,0.000000 -1.956738,53.830670,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 184.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956737,53.830660,0.000000 -1.956760,53.830659,0.000000 -1.956760,53.830650,0.000000 -1.956736,53.830652,0.000000 -1.956737,53.830660,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 188.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956735,53.830650,0.000000 -1.956759,53.830647,0.000000 -1.956757,53.830639,0.000000 -1.956734,53.830642,0.000000 -1.956735,53.830650,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 192.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956733,53.830641,0.000000 -1.956756,53.830636,0.000000 -1.956754,53.830628,0.000000 -1.956731,53.830633,0.000000 -1.956733,53.830641,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 196.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956730,53.830632,0.000000 -1.956752,53.830625,0.000000 -1.956750,53.830617,0.000000 -1.956727,53.830624,0.000000 -1.956730,53.830632,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 200.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956726,53.830622,0.000000 -1.956748,53.830614,0.000000 -1.956745,53.830607,0.000000 -1.956723,53.830615,0.000000 -1.956726,53.830622,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 204.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956722,53.830614,0.000000 -1.956743,53.830604,0.000000 -1.956740,53.830596,0.000000 -1.956718,53.830606,0.000000 -1.956722,53.830614,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 208.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956717,53.830605,0.000000 -1.956738,53.830594,0.000000 -1.956734,53.830587,0.000000 -1.956713,53.830598,0.000000 -1.956717,53.830605,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 212.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956711,53.830597,0.000000 -1.956731,53.830584,0.000000 -1.956727,53.830577,0.000000 -1.956707,53.830590,0.000000 -1.956711,53.830597,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 216.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956705,53.830589,0.000000 -1.956724,53.830575,0.000000 -1.956719,53.830569,0.000000 -1.956700,53.830582,0.000000 -1.956705,53.830589,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 220.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956699,53.830582,0.000000 -1.956717,53.830567,0.000000 -1.956711,53.830560,0.000000 -1.956693,53.830575,0.000000 -1.956699,53.830582,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 224.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956691,53.830575,0.000000 -1.956708,53.830559,0.000000 -1.956703,53.830553,0.000000 -1.956686,53.830569,0.000000 -1.956691,53.830575,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 228.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956684,53.830569,0.000000 -1.956700,53.830551,0.000000 -1.956693,53.830546,0.000000 -1.956678,53.830563,0.000000 -1.956684,53.830569,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 232.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956676,53.830563,0.000000 -1.956690,53.830544,0.000000 -1.956684,53.830539,0.000000 -1.956669,53.830558,0.000000 -1.956676,53.830563,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 236.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956668,53.830558,0.000000 -1.956681,53.830538,0.000000 -1.956674,53.830533,0.000000 -1.956661,53.830553,0.000000 -1.956668,53.830558,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 240.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956659,53.830553,0.000000 -1.956671,53.830533,0.000000 -1.956663,53.830528,0.000000 -1.956652,53.830549,0.000000 -1.956659,53.830553,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 244.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956650,53.830549,0.000000 -1.956660,53.830528,0.000000 -1.956653,53.830524,0.000000 -1.956642,53.830545,0.000000 -1.956650,53.830549,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 248.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956641,53.830546,0.000000 -1.956649,53.830524,0.000000 -1.956642,53.830521,0.000000 -1.956633,53.830542,0.000000 -1.956641,53.830546,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 252.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956631,53.830543,0.000000 -1.956638,53.830520,0.000000 -1.956630,53.830518,0.000000 -1.956623,53.830540,0.000000 -1.956631,53.830543,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 256.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956621,53.830541,0.000000 -1.956627,53.830518,0.000000 -1.956619,53.830516,0.000000 -1.956613,53.830539,0.000000 -1.956621,53.830541,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 260.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956612,53.830539,0.000000 -1.956616,53.830516,0.000000 -1.956608,53.830515,0.000000 -1.956603,53.830538,0.000000 -1.956612,53.830539,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 264.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956602,53.830539,0.000000 -1.956604,53.830515,0.000000 -1.956596,53.830514,0.000000 -1.956594,53.830538,0.000000 -1.956602,53.830539,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 268.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956592,53.830539,0.000000 -1.956593,53.830515,0.000000 -1.956584,53.830515,0.000000 -1.956584,53.830538,0.000000 -1.956592,53.830539,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 272.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956582,53.830539,0.000000 -1.956581,53.830516,0.000000 -1.956573,53.830516,0.000000 -1.956574,53.830540,0.000000 -1.956582,53.830539,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 276.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956572,53.830541,0.000000 -1.956570,53.830517,0.000000 -1.956562,53.830518,0.000000 -1.956564,53.830542,0.000000 -1.956572,53.830541,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 280.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956563,53.830543,0.000000 -1.956559,53.830520,0.000000 -1.956550,53.830521,0.000000 -1.956554,53.830544,0.000000 -1.956563,53.830543,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 284.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956553,53.830546,0.000000 -1.956548,53.830523,0.000000 -1.956539,53.830525,0.000000 -1.956545,53.830548,0.000000 -1.956553,53.830546,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 288.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956544,53.830549,0.000000 -1.956537,53.830527,0.000000 -1.956529,53.830529,0.000000 -1.956536,53.830552,0.000000 -1.956544,53.830549,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 292.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956535,53.830553,0.000000 -1.956526,53.830531,0.000000 -1.956518,53.830534,0.000000 -1.956527,53.830556,0.000000 -1.956535,53.830553,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 296.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956526,53.830558,0.000000 -1.956516,53.830537,0.000000 -1.956508,53.830540,0.000000 -1.956519,53.830561,0.000000 -1.956526,53.830558,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 300.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956518,53.830563,0.000000 -1.956506,53.830543,0.000000 -1.956499,53.830547,0.000000 -1.956511,53.830567,0.000000 -1.956518,53.830563,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 304.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956510,53.830569,0.000000 -1.956497,53.830549,0.000000 -1.956490,53.830554,0.000000 -1.956503,53.830573,0.000000 -1.956510,53.830569,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 308.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956502,53.830575,0.000000 -1.956488,53.830557,0.000000 -1.956481,53.830562,0.000000 -1.956496,53.830580,0.000000 -1.956502,53.830575,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 312.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956495,53.830582,0.000000 -1.956479,53.830564,0.000000 -1.956473,53.830570,0.000000 -1.956489,53.830587,0.000000 -1.956495,53.830582,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 316.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956489,53.830589,0.000000 -1.956472,53.830573,0.000000 -1.956466,53.830579,0.000000 -1.956483,53.830595,0.000000 -1.956489,53.830589,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 320.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956483,53.830597,0.000000 -1.956465,53.830582,0.000000 -1.956459,53.830588,0.000000 -1.956477,53.830603,0.000000 -1.956483,53.830597,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 324.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956477,53.830605,0.000000 -1.956458,53.830591,0.000000 -1.956453,53.830598,0.000000 -1.956472,53.830612,0.000000 -1.956477,53.830605,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 328.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956472,53.830614,0.000000 -1.956452,53.830601,0.000000 -1.956448,53.830608,0.000000 -1.956468,53.830621,0.000000 -1.956472,53.830614,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 332.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956468,53.830623,0.000000 -1.956447,53.830612,0.000000 -1.956443,53.830619,0.000000 -1.956464,53.830630,0.000000 -1.956468,53.830623,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 336.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956464,53.830632,0.000000 -1.956443,53.830622,0.000000 -1.956439,53.830630,0.000000 -1.956461,53.830639,0.000000 -1.956464,53.830632,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 340.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956461,53.830641,0.000000 -1.956439,53.830633,0.000000 -1.956436,53.830641,0.000000 -1.956458,53.830649,0.000000 -1.956461,53.830641,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 344.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956459,53.830651,0.000000 -1.956436,53.830644,0.000000 -1.956434,53.830652,0.000000 -1.956456,53.830659,0.000000 -1.956459,53.830651,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 348.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956457,53.830660,0.000000 -1.956434,53.830656,0.000000 -1.956432,53.830664,0.000000 -1.956455,53.830669,0.000000 -1.956457,53.830660,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 352.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956456,53.830670,0.000000 -1.956433,53.830667,0.000000 -1.956432,53.830675,0.000000 -1.956455,53.830678,0.000000 -1.956456,53.830670,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Degrees: 356.0</name>
+      <description>Test Rotation</description>
+      <visibility>1</visibility>
+      <styleUrl>#poly-BDBDBD-1-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.956456,53.830680,0.000000 -1.956432,53.830679,0.000000 -1.956432,53.830687,0.000000 -1.956455,53.830688,0.000000 -1.956456,53.830680,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>
+

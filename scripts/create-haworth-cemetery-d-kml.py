@@ -11,7 +11,7 @@
 # -a --lat-start = latitude point where to start adding graves on the map.
 #
 # example:
-# create-haworth-cemetery-d-kml.py -f "/home/foo/bar.csv" -o -1.9565970 -a 53.8306800 > graves-section-d.kml
+# create-haworth-cemetery-d-kml.py -f "/home/foo/bar.csv" -o -1.9565970 -a 53.8307800 > graves-section-d.kml
 #
 # Outputs Keyhole Markup Language document for import to google Earth and Maps.
 # see:
